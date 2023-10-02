@@ -6,23 +6,29 @@ Instead of concentrating on the building process, we should express our sincere 
 
 ![How to give a star](docs/stars.png)
 
-*What we need to know is how to spin-up the TPC-C database...*
+*What we need to know is how to spin up the TPC-C database...*
 
 ## Getting started
 
 ```sh
-docker run --name=pg-querying-workshop -p 5432:5432 cloudiana/pg-tpcc:1.0-1X-WITH-INDEX
+docker run --name=pg-querying-workshop -p 5432:5432 cloudiana/pg-tpcc:1.1-1X-WITH-INDEX
 ```
 
-The aforementioned command will construct a database container with the name `pg-querying-workshop`; 
-<br />this container requires >= 2GB of disk space.
+The aforementioned command will construct a database container with the name `pg-querying-workshop`.
+
+The container typically requires at least 2.5 GB of disk space.
 
 To stop the database, run the following command:
 ```sh
 docker stop pg-querying-workshop
 ```
 
-And to start for the next time, use:
+And for the next time, use:
 ```sh
 docker start pg-querying-workshop
 ```
+to start the database without re-initialization again.
+
+## Exercises
+
+Browse all exercises at [docs folder](docs/exercises.md)
