@@ -5,7 +5,7 @@ import { connect } from '../../connect'
 import { QueryGenerator } from '../../engines/q'
 import { SQLReturnRowInterface } from '../../schemas/SQLReturnRowInterface.type'
 import { q0, q1 } from '../../sfw/district'
-import toSystemPath, { SolutionFileDirectory } from '../../utils/solution-path'
+import toSystemPath, { SolutionFilePath } from '../../utils/solution-path'
 
 let client: Client
 
@@ -21,7 +21,7 @@ afterAll((done) => {
 })
 
 describe('District SFW query', () => {
-  test.each<[string, SolutionFileDirectory, ReturnType<QueryGenerator>]>([
+  test.each<[string, SolutionFilePath, ReturnType<QueryGenerator>]>([
     ['Where tax is >= 20%', 'sfw/query_results-2023-10-03_14308', q0],
     ['Where zip code ending with 9', 'sfw/query_results-2023-10-03_81527', q1],
   ])('%s - %s', async (_, sol, queryIntermediate) => {

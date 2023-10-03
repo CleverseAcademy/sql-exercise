@@ -7,7 +7,7 @@ type TupleOfLength<N, T extends any[] = []> = T["length"] extends N
 
 type NumberRange<L, H> = Exclude<TupleOfLength<H>, TupleOfLength<L>> | H
 
-type FolderName = 'sfw' | 'join' | 'aggregate'
+type PathName = 'sfw' | 'join' | 'aggregate'
 
 type Years = `20${NumberRange<23, 50>}`
 
@@ -17,8 +17,8 @@ type Dates = `0${NumberRange<1, 9>}` | `${NumberRange<10, 31>}`
 
 type SolutionFilename = `query_results-${Years}-${Months}-${Dates}_${number}`
 
-export type SolutionFileDirectory = `${FolderName}/${SolutionFilename}`
+export type SolutionFilePath = `${PathName}/${SolutionFilename}`
 
-const toSystemPath = (solPath: SolutionFileDirectory): string => join(__dirname, `../../cases.test/${solPath}.json`)
+const toSystemPath = (solPath: SolutionFilePath): string => join(__dirname, `../../cases.test/${solPath}.json`)
 
 export default toSystemPath
