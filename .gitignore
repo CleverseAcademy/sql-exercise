@@ -131,3 +131,5 @@ dist
 
 # Database preparation scripts
 .prep
+
+.DS_Store
