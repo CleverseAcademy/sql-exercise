@@ -39,11 +39,11 @@ describe('District SFW query', () => {
       'sfw/query_results-2023-10-03_91144',
       q4,
     ],
-  ])('%s - %s', async (_, sol, queryIntermediate) => {
+  ])('%s - %s', async (_, sol, intermediateQuery) => {
     const solution: SQLReturnRowInterface[] = JSON.parse(
       readFileSync(toSystemPath(sol)).toString(),
     )
-    const queryResult = await queryIntermediate(client)
+    const queryResult = await intermediateQuery(client)
 
     solution.forEach((row) => expect(queryResult).toContainEqual(row))
   })
