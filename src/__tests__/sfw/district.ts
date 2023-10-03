@@ -2,9 +2,10 @@ import { afterAll, beforeAll, describe, expect, test } from '@jest/globals'
 import { readFileSync } from 'fs'
 import { Client } from 'pg'
 import { connect } from '../../connect'
-import FirstQueryDto from '../../schemas/sfw/1.dto'
-import { districtQuery } from '../../sfw/district'
-import toSystemPath from '../../utils/solution-path'
+import { QueryGenerator } from '../../engines/q'
+import { SQLReturnRowInterface } from '../../schemas/SQLReturnRowInterface.type'
+import { q0, q1 } from '../../sfw/district'
+import toSystemPath, { SolutionFileDirectory } from '../../utils/solution-path'
 
 let client: Client
 
@@ -20,14 +21,15 @@ afterAll((done) => {
 })
 
 describe('District SFW query', () => {
-  test('Where tax is >= 20%', async () => {
-    const solution: FirstQueryDto[] = JSON.parse(
-      readFileSync(
-        toSystemPath('sfw/query_results-2023-10-03_14308'),
-      ).toString(),
+  test.each<[string, SolutionFileDirectory, ReturnType<QueryGenerator>]>([
+    ['Where tax is >= 20%', 'sfw/query_results-2023-10-03_14308', q0],
+    ['Where zip code ending with 9', 'sfw/query_results-2023-10-03_81527', q1],
+  ])('%s - %s', async (_, sol, queryIntermediate) => {
+    const solution: SQLReturnRowInterface[] = JSON.parse(
+      readFileSync(toSystemPath(sol)).toString(),
     )
+    const queryResult = await queryIntermediate(client)
 
-    const queryResult = await districtQuery(client)
-    queryResult.forEach((row) => expect(solution).toContainEqual(row))
+    solution.forEach((row) => expect(queryResult).toContainEqual(row))
   })
 })

@@ -1,6 +1,6 @@
-export type KeyValueInterface = Record<string, unknown>
+import { SQLReturnRowInterface } from '../schemas/SQLReturnRowInterface.type'
 
-const isMatchFieldsExpectation = <T extends KeyValueInterface>(
+const isMatchFieldsExpectation = <T extends SQLReturnRowInterface>(
   actual: T[],
   expected: T,
 ): boolean =>

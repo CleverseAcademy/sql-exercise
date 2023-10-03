@@ -1,6 +1,11 @@
 import { Client } from 'pg'
-import { KeyValueInterface } from '../utils/field'
+import { SQLReturnRowInterface } from '../schemas/SQLReturnRowInterface.type'
 
-export default <T extends KeyValueInterface>(stmt: string) => async (
-  client: Client,
-): Promise<T[]> => (await client.query<T>(stmt)).rows
+export type QueryGenerator = <T extends SQLReturnRowInterface>(
+  stmt: string,
+) => (client: Client) => Promise<T[]>
+
+const q: QueryGenerator = (stmt) => (client: Client) =>
+  client.query(stmt).then((r) => r.rows)
+
+export default q
