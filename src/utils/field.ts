@@ -1,4 +1,4 @@
-import { SQLReturnRowInterface } from '../schemas/SQLReturnRowInterface.type'
+import SQLReturnRowInterface from '../schemas/SQLRowInterface.type'
 
 const isMatchFieldsExpectation = <T extends SQLReturnRowInterface>(
   actual: T[],

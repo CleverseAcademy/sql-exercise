@@ -1,4 +1,4 @@
-import { SQLReturnRowInterface } from '../../SQLReturnRowInterface.type'
+import SQLReturnRowInterface from '../../SQLRowInterface.type'
 
 export default interface Dto extends SQLReturnRowInterface {
   d_city: string

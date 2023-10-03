@@ -1,5 +1,5 @@
 import { Client } from 'pg'
-import { SQLReturnRowInterface } from '../schemas/SQLReturnRowInterface.type'
+import SQLReturnRowInterface from '../schemas/SQLRowInterface.type'
 
 export type QueryGenerator = <T extends SQLReturnRowInterface>(
   stmt: string,

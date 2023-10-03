@@ -3,7 +3,7 @@ import { readFileSync } from 'fs'
 import { Client } from 'pg'
 import { connect } from '../../connect'
 import { QueryGenerator } from '../../engines/q'
-import { SQLReturnRowInterface } from '../../schemas/SQLReturnRowInterface.type'
+import SQLReturnRowInterface from '../../schemas/SQLRowInterface.type'
 import { q0, q1, q2, q3, q4 } from '../../sfw/district'
 import toSystemPath, { SolutionFilePath } from '../../utils/solution-path'
 
