@@ -1,6 +1,6 @@
-export type KeyValueObject = Record<string, unknown>
+export type KeyValueInterface = Record<string, unknown>
 
-const isMatchFieldsExpectation = <T extends KeyValueObject>(
+const isMatchFieldsExpectation = <T extends KeyValueInterface>(
   actual: T[],
   expected: T,
 ): boolean =>

@@ -1,5 +1,5 @@
 import { describe, expect, test } from '@jest/globals'
-import isMatchFieldsExpectation from '../../src/utils/field'
+import isMatchFieldsExpectation from '../../utils/field'
 
 describe('Utility test - isMatchFieldsExpectation', () => {
   test.each([

@@ -1,6 +1,6 @@
-import { KeyValueObject } from '../../utils/field'
+import { KeyValueInterface } from '../../utils/field'
 
-export interface ExpectedFields extends KeyValueObject {
+export default interface Dto extends KeyValueInterface {
   d_name: string
   d_street_1: string
   d_street_2: string

@@ -1,10 +1,10 @@
 import { afterAll, beforeAll, describe, expect, test } from '@jest/globals'
 import { readFileSync } from 'fs'
-import { join } from 'path'
 import { Client } from 'pg'
-import { connect } from '../../src/connect'
-import { ExpectedFields } from '../../src/schemas/sfw/1.dto'
-import { districtQuery } from '../../src/sfw/district'
+import { connect } from '../../connect'
+import FirstQueryDto from '../../schemas/sfw/1.dto'
+import { districtQuery } from '../../sfw/district'
+import toSystemPath from '../../utils/solution-path'
 
 let client: Client
 
@@ -21,12 +21,9 @@ afterAll((done) => {
 
 describe('District SFW query', () => {
   test('Where tax is >= 20%', async () => {
-    const solution: ExpectedFields[] = JSON.parse(
+    const solution: FirstQueryDto[] = JSON.parse(
       readFileSync(
-        join(
-          __dirname,
-          '../../cases.test/sfw/query_results-2023-10-03_14308.json',
-        ),
+        toSystemPath('sfw/query_results-2023-10-03_14308'),
       ).toString(),
     )
 
