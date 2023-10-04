@@ -1,8 +1,6 @@
 import { describe, expect, test } from '@jest/globals'
-import { openSync, readFileSync } from 'fs'
+import { openSync } from 'fs'
 import toSystemPath, { SolutionFilePath } from '../../utils/solution-path'
-
-let sum = 0
 
 describe('sol-path', () => {
   test.each<SolutionFilePath>([

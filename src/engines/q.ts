@@ -5,7 +5,7 @@ export type QueryGenerator = <T extends SQLReturnRowInterface>(
   stmt: string,
 ) => (client: Client) => Promise<T[]>
 
-const q: QueryGenerator = (stmt) => (client: Client) =>
+const q: QueryGenerator = (stmt) => (client) =>
   client.query(stmt).then((r) => r.rows)
 
 export default q
