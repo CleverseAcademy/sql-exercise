@@ -1,6 +1,8 @@
 import { describe, expect, test } from '@jest/globals'
-import { openSync } from 'fs'
+import { openSync, readFileSync } from 'fs'
 import toSystemPath, { SolutionFilePath } from '../../utils/solution-path'
+
+let sum = 0
 
 describe('sol-path', () => {
   test.each<SolutionFilePath>([
@@ -22,6 +24,19 @@ describe('sol-path', () => {
     'sfw/query_results-2023-10-04_21345',
     'sfw/query_results-2023-10-04_21837',
     'sfw/query_results-2023-10-04_30601',
+    'sfw/query_results-2023-10-04_32555',
+    'sfw/query_results-2023-10-04_33455',
+    'sfw/query_results-2023-10-04_34501',
+    'sfw/query_results-2023-10-04_34751',
+    'aggregate/query_results-2023-10-04_45202',
+    'aggregate/query_results-2023-10-04_45829',
+    'aggregate/query_results-2023-10-04_45901',
+    'aggregate/query_results-2023-10-04_45923',
+    'aggregate/query_results-2023-10-04_45941',
+    'aggregate/query_results-2023-10-04_50004',
+    'aggregate/query_results-2023-10-04_50113',
+    'aggregate/query_results-2023-10-04_50131',
+    'aggregate/query_results-2023-10-04_50150',
   ])('Preflight check - %s', (filename) => {
     expect(openSync(toSystemPath(filename), 'r')).toEqual(expect.any(Number))
   })
