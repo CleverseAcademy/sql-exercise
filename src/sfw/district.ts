@@ -16,3 +16,7 @@ export const q2 = q<Dto2>('')
 export const q3 = q<Dto3>('')
 
 export const q4 = q<Dto4>('')
+
+export const q5 = q('')
+
+export const q6 = q('')

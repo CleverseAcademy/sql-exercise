@@ -26,21 +26,3 @@ export const q8 = q(`
 
 export const q9 = q(`
 `)
-
-export const q10 = q(`
-`)
-
-export const q11 = q(`
-`)
-
-export const q12 = q(`
-`)
-
-export const q13 = q(`
-`)
-
-export const q14 = q(`
-`)
-
-export const q15 = q(`
-`)

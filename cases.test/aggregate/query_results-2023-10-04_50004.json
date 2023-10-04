@@ -1,0 +1,26 @@
+[
+  {
+    "discount_percentage_ceiling": "0",
+    "amt": "3022"
+  },
+  {
+    "discount_percentage_ceiling": "10",
+    "amt": "60094"
+  },
+  {
+    "discount_percentage_ceiling": "20",
+    "amt": "60244"
+  },
+  {
+    "discount_percentage_ceiling": "30",
+    "amt": "60069"
+  },
+  {
+    "discount_percentage_ceiling": "40",
+    "amt": "59621"
+  },
+  {
+    "discount_percentage_ceiling": "50",
+    "amt": "56950"
+  }
+]

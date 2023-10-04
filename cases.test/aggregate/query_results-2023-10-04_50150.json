@@ -1,0 +1,502 @@
+[
+  {
+    "c_d_id": 1,
+    "c_w_id": 1,
+    "sum_district_ytd_payment": "1952660.00"
+  },
+  {
+    "c_d_id": 1,
+    "c_w_id": 2,
+    "sum_district_ytd_payment": "2013281.00"
+  },
+  {
+    "c_d_id": 1,
+    "c_w_id": 3,
+    "sum_district_ytd_payment": "1991058.00"
+  },
+  {
+    "c_d_id": 1,
+    "c_w_id": 4,
+    "sum_district_ytd_payment": "1977571.00"
+  },
+  {
+    "c_d_id": 1,
+    "c_w_id": 5,
+    "sum_district_ytd_payment": "1819485.00"
+  },
+  {
+    "c_d_id": 1,
+    "c_w_id": 6,
+    "sum_district_ytd_payment": "1782515.00"
+  },
+  {
+    "c_d_id": 1,
+    "c_w_id": 7,
+    "sum_district_ytd_payment": "1948908.00"
+  },
+  {
+    "c_d_id": 1,
+    "c_w_id": 8,
+    "sum_district_ytd_payment": "1829704.00"
+  },
+  {
+    "c_d_id": 1,
+    "c_w_id": 9,
+    "sum_district_ytd_payment": "1930225.00"
+  },
+  {
+    "c_d_id": 1,
+    "c_w_id": 10,
+    "sum_district_ytd_payment": "2117267.00"
+  },
+  {
+    "c_d_id": 2,
+    "c_w_id": 1,
+    "sum_district_ytd_payment": "1817837.00"
+  },
+  {
+    "c_d_id": 2,
+    "c_w_id": 2,
+    "sum_district_ytd_payment": "1882053.00"
+  },
+  {
+    "c_d_id": 2,
+    "c_w_id": 3,
+    "sum_district_ytd_payment": "1953748.00"
+  },
+  {
+    "c_d_id": 2,
+    "c_w_id": 4,
+    "sum_district_ytd_payment": "1938783.00"
+  },
+  {
+    "c_d_id": 2,
+    "c_w_id": 5,
+    "sum_district_ytd_payment": "1786583.00"
+  },
+  {
+    "c_d_id": 2,
+    "c_w_id": 6,
+    "sum_district_ytd_payment": "1955462.00"
+  },
+  {
+    "c_d_id": 2,
+    "c_w_id": 7,
+    "sum_district_ytd_payment": "2024235.00"
+  },
+  {
+    "c_d_id": 2,
+    "c_w_id": 8,
+    "sum_district_ytd_payment": "1898016.00"
+  },
+  {
+    "c_d_id": 2,
+    "c_w_id": 9,
+    "sum_district_ytd_payment": "1893509.00"
+  },
+  {
+    "c_d_id": 2,
+    "c_w_id": 10,
+    "sum_district_ytd_payment": "1816056.00"
+  },
+  {
+    "c_d_id": 3,
+    "c_w_id": 1,
+    "sum_district_ytd_payment": "1974664.00"
+  },
+  {
+    "c_d_id": 3,
+    "c_w_id": 2,
+    "sum_district_ytd_payment": "2018585.00"
+  },
+  {
+    "c_d_id": 3,
+    "c_w_id": 3,
+    "sum_district_ytd_payment": "2075160.00"
+  },
+  {
+    "c_d_id": 3,
+    "c_w_id": 4,
+    "sum_district_ytd_payment": "2042125.00"
+  },
+  {
+    "c_d_id": 3,
+    "c_w_id": 5,
+    "sum_district_ytd_payment": "1942785.00"
+  },
+  {
+    "c_d_id": 3,
+    "c_w_id": 6,
+    "sum_district_ytd_payment": "2056020.00"
+  },
+  {
+    "c_d_id": 3,
+    "c_w_id": 7,
+    "sum_district_ytd_payment": "1919780.00"
+  },
+  {
+    "c_d_id": 3,
+    "c_w_id": 8,
+    "sum_district_ytd_payment": "1921702.00"
+  },
+  {
+    "c_d_id": 3,
+    "c_w_id": 9,
+    "sum_district_ytd_payment": "1941676.00"
+  },
+  {
+    "c_d_id": 3,
+    "c_w_id": 10,
+    "sum_district_ytd_payment": "1879507.00"
+  },
+  {
+    "c_d_id": 4,
+    "c_w_id": 1,
+    "sum_district_ytd_payment": "2087705.00"
+  },
+  {
+    "c_d_id": 4,
+    "c_w_id": 2,
+    "sum_district_ytd_payment": "1924233.00"
+  },
+  {
+    "c_d_id": 4,
+    "c_w_id": 3,
+    "sum_district_ytd_payment": "1846196.00"
+  },
+  {
+    "c_d_id": 4,
+    "c_w_id": 4,
+    "sum_district_ytd_payment": "1956874.00"
+  },
+  {
+    "c_d_id": 4,
+    "c_w_id": 5,
+    "sum_district_ytd_payment": "1967568.00"
+  },
+  {
+    "c_d_id": 4,
+    "c_w_id": 6,
+    "sum_district_ytd_payment": "2113065.00"
+  },
+  {
+    "c_d_id": 4,
+    "c_w_id": 7,
+    "sum_district_ytd_payment": "1897320.00"
+  },
+  {
+    "c_d_id": 4,
+    "c_w_id": 8,
+    "sum_district_ytd_payment": "2035047.00"
+  },
+  {
+    "c_d_id": 4,
+    "c_w_id": 9,
+    "sum_district_ytd_payment": "1861973.00"
+  },
+  {
+    "c_d_id": 4,
+    "c_w_id": 10,
+    "sum_district_ytd_payment": "1985503.00"
+  },
+  {
+    "c_d_id": 5,
+    "c_w_id": 1,
+    "sum_district_ytd_payment": "1785325.00"
+  },
+  {
+    "c_d_id": 5,
+    "c_w_id": 2,
+    "sum_district_ytd_payment": "2031342.00"
+  },
+  {
+    "c_d_id": 5,
+    "c_w_id": 3,
+    "sum_district_ytd_payment": "1939046.00"
+  },
+  {
+    "c_d_id": 5,
+    "c_w_id": 4,
+    "sum_district_ytd_payment": "1841850.00"
+  },
+  {
+    "c_d_id": 5,
+    "c_w_id": 5,
+    "sum_district_ytd_payment": "1839770.00"
+  },
+  {
+    "c_d_id": 5,
+    "c_w_id": 6,
+    "sum_district_ytd_payment": "1967678.00"
+  },
+  {
+    "c_d_id": 5,
+    "c_w_id": 7,
+    "sum_district_ytd_payment": "2024323.00"
+  },
+  {
+    "c_d_id": 5,
+    "c_w_id": 8,
+    "sum_district_ytd_payment": "1949829.00"
+  },
+  {
+    "c_d_id": 5,
+    "c_w_id": 9,
+    "sum_district_ytd_payment": "2057426.00"
+  },
+  {
+    "c_d_id": 5,
+    "c_w_id": 10,
+    "sum_district_ytd_payment": "1915201.00"
+  },
+  {
+    "c_d_id": 6,
+    "c_w_id": 1,
+    "sum_district_ytd_payment": "2036657.00"
+  },
+  {
+    "c_d_id": 6,
+    "c_w_id": 2,
+    "sum_district_ytd_payment": "1957874.00"
+  },
+  {
+    "c_d_id": 6,
+    "c_w_id": 3,
+    "sum_district_ytd_payment": "2072959.00"
+  },
+  {
+    "c_d_id": 6,
+    "c_w_id": 4,
+    "sum_district_ytd_payment": "2007743.00"
+  },
+  {
+    "c_d_id": 6,
+    "c_w_id": 5,
+    "sum_district_ytd_payment": "2033147.00"
+  },
+  {
+    "c_d_id": 6,
+    "c_w_id": 6,
+    "sum_district_ytd_payment": "2044969.00"
+  },
+  {
+    "c_d_id": 6,
+    "c_w_id": 7,
+    "sum_district_ytd_payment": "1985079.00"
+  },
+  {
+    "c_d_id": 6,
+    "c_w_id": 8,
+    "sum_district_ytd_payment": "1951702.00"
+  },
+  {
+    "c_d_id": 6,
+    "c_w_id": 9,
+    "sum_district_ytd_payment": "2023386.00"
+  },
+  {
+    "c_d_id": 6,
+    "c_w_id": 10,
+    "sum_district_ytd_payment": "2142393.00"
+  },
+  {
+    "c_d_id": 7,
+    "c_w_id": 1,
+    "sum_district_ytd_payment": "2001266.00"
+  },
+  {
+    "c_d_id": 7,
+    "c_w_id": 2,
+    "sum_district_ytd_payment": "1983552.00"
+  },
+  {
+    "c_d_id": 7,
+    "c_w_id": 3,
+    "sum_district_ytd_payment": "1987634.00"
+  },
+  {
+    "c_d_id": 7,
+    "c_w_id": 4,
+    "sum_district_ytd_payment": "1940975.00"
+  },
+  {
+    "c_d_id": 7,
+    "c_w_id": 5,
+    "sum_district_ytd_payment": "2014319.00"
+  },
+  {
+    "c_d_id": 7,
+    "c_w_id": 6,
+    "sum_district_ytd_payment": "1916636.00"
+  },
+  {
+    "c_d_id": 7,
+    "c_w_id": 7,
+    "sum_district_ytd_payment": "2062433.00"
+  },
+  {
+    "c_d_id": 7,
+    "c_w_id": 8,
+    "sum_district_ytd_payment": "1909719.00"
+  },
+  {
+    "c_d_id": 7,
+    "c_w_id": 9,
+    "sum_district_ytd_payment": "2050419.00"
+  },
+  {
+    "c_d_id": 7,
+    "c_w_id": 10,
+    "sum_district_ytd_payment": "1985640.00"
+  },
+  {
+    "c_d_id": 8,
+    "c_w_id": 1,
+    "sum_district_ytd_payment": "1841786.00"
+  },
+  {
+    "c_d_id": 8,
+    "c_w_id": 2,
+    "sum_district_ytd_payment": "1986092.00"
+  },
+  {
+    "c_d_id": 8,
+    "c_w_id": 3,
+    "sum_district_ytd_payment": "2024673.00"
+  },
+  {
+    "c_d_id": 8,
+    "c_w_id": 4,
+    "sum_district_ytd_payment": "2004292.00"
+  },
+  {
+    "c_d_id": 8,
+    "c_w_id": 5,
+    "sum_district_ytd_payment": "2065779.00"
+  },
+  {
+    "c_d_id": 8,
+    "c_w_id": 6,
+    "sum_district_ytd_payment": "1980787.00"
+  },
+  {
+    "c_d_id": 8,
+    "c_w_id": 7,
+    "sum_district_ytd_payment": "1911689.00"
+  },
+  {
+    "c_d_id": 8,
+    "c_w_id": 8,
+    "sum_district_ytd_payment": "1947890.00"
+  },
+  {
+    "c_d_id": 8,
+    "c_w_id": 9,
+    "sum_district_ytd_payment": "2035749.00"
+  },
+  {
+    "c_d_id": 8,
+    "c_w_id": 10,
+    "sum_district_ytd_payment": "2026640.00"
+  },
+  {
+    "c_d_id": 9,
+    "c_w_id": 1,
+    "sum_district_ytd_payment": "1917560.00"
+  },
+  {
+    "c_d_id": 9,
+    "c_w_id": 2,
+    "sum_district_ytd_payment": "1978196.00"
+  },
+  {
+    "c_d_id": 9,
+    "c_w_id": 3,
+    "sum_district_ytd_payment": "1991625.00"
+  },
+  {
+    "c_d_id": 9,
+    "c_w_id": 4,
+    "sum_district_ytd_payment": "1897999.00"
+  },
+  {
+    "c_d_id": 9,
+    "c_w_id": 5,
+    "sum_district_ytd_payment": "1849738.00"
+  },
+  {
+    "c_d_id": 9,
+    "c_w_id": 6,
+    "sum_district_ytd_payment": "1888256.00"
+  },
+  {
+    "c_d_id": 9,
+    "c_w_id": 7,
+    "sum_district_ytd_payment": "2133061.00"
+  },
+  {
+    "c_d_id": 9,
+    "c_w_id": 8,
+    "sum_district_ytd_payment": "1930175.00"
+  },
+  {
+    "c_d_id": 9,
+    "c_w_id": 9,
+    "sum_district_ytd_payment": "1925651.00"
+  },
+  {
+    "c_d_id": 9,
+    "c_w_id": 10,
+    "sum_district_ytd_payment": "1994541.00"
+  },
+  {
+    "c_d_id": 10,
+    "c_w_id": 1,
+    "sum_district_ytd_payment": "2079250.00"
+  },
+  {
+    "c_d_id": 10,
+    "c_w_id": 2,
+    "sum_district_ytd_payment": "2021909.00"
+  },
+  {
+    "c_d_id": 10,
+    "c_w_id": 3,
+    "sum_district_ytd_payment": "1940955.00"
+  },
+  {
+    "c_d_id": 10,
+    "c_w_id": 4,
+    "sum_district_ytd_payment": "1953194.00"
+  },
+  {
+    "c_d_id": 10,
+    "c_w_id": 5,
+    "sum_district_ytd_payment": "1874882.00"
+  },
+  {
+    "c_d_id": 10,
+    "c_w_id": 6,
+    "sum_district_ytd_payment": "1990385.00"
+  },
+  {
+    "c_d_id": 10,
+    "c_w_id": 7,
+    "sum_district_ytd_payment": "2010402.00"
+  },
+  {
+    "c_d_id": 10,
+    "c_w_id": 8,
+    "sum_district_ytd_payment": "2054922.00"
+  },
+  {
+    "c_d_id": 10,
+    "c_w_id": 9,
+    "sum_district_ytd_payment": "1977362.00"
+  },
+  {
+    "c_d_id": 10,
+    "c_w_id": 10,
+    "sum_district_ytd_payment": "1811670.00"
+  }
+]

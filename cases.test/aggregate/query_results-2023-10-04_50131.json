@@ -1,0 +1,82 @@
+[
+  {
+    "c_state": "bl",
+    "sum_state_ytd_payment": "375619.00"
+  },
+  {
+    "c_state": "cc",
+    "sum_state_ytd_payment": "380840.00"
+  },
+  {
+    "c_state": "cs",
+    "sum_state_ytd_payment": "367357.00"
+  },
+  {
+    "c_state": "fd",
+    "sum_state_ytd_payment": "372094.00"
+  },
+  {
+    "c_state": "ga",
+    "sum_state_ytd_payment": "370803.00"
+  },
+  {
+    "c_state": "if",
+    "sum_state_ytd_payment": "366777.00"
+  },
+  {
+    "c_state": "io",
+    "sum_state_ytd_payment": "372804.00"
+  },
+  {
+    "c_state": "jr",
+    "sum_state_ytd_payment": "391014.00"
+  },
+  {
+    "c_state": "jw",
+    "sum_state_ytd_payment": "361690.00"
+  },
+  {
+    "c_state": "kp",
+    "sum_state_ytd_payment": "368502.00"
+  },
+  {
+    "c_state": "ll",
+    "sum_state_ytd_payment": "382950.00"
+  },
+  {
+    "c_state": "mh",
+    "sum_state_ytd_payment": "363585.00"
+  },
+  {
+    "c_state": "ot",
+    "sum_state_ytd_payment": "369350.00"
+  },
+  {
+    "c_state": "rh",
+    "sum_state_ytd_payment": "366772.00"
+  },
+  {
+    "c_state": "tf",
+    "sum_state_ytd_payment": "370845.00"
+  },
+  {
+    "c_state": "tk",
+    "sum_state_ytd_payment": "397280.00"
+  },
+  {
+    "c_state": "uf",
+    "sum_state_ytd_payment": "396748.00"
+  },
+  {
+    "c_state": "vx",
+    "sum_state_ytd_payment": "375616.00"
+  },
+  {
+    "c_state": "yy",
+    "sum_state_ytd_payment": "360507.00"
+  },
+  {
+    "c_state": "zd",
+    "sum_state_ytd_payment": "364946.00"
+  }
+]

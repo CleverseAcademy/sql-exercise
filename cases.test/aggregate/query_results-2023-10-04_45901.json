@@ -1,0 +1,802 @@
+[
+  {
+    "c_last": "ANTIABLEABLE",
+    "max_family_discount": "0.50"
+  },
+  {
+    "c_last": "ANTIABLEANTI",
+    "max_family_discount": "0.50"
+  },
+  {
+    "c_last": "ANTIABLEATION",
+    "max_family_discount": "0.49"
+  },
+  {
+    "c_last": "ANTIABLEBAR",
+    "max_family_discount": "0.50"
+  },
+  {
+    "c_last": "ANTIABLECALLY",
+    "max_family_discount": "0.50"
+  },
+  {
+    "c_last": "ANTIABLEEING",
+    "max_family_discount": "0.50"
+  },
+  {
+    "c_last": "ANTIABLEESE",
+    "max_family_discount": "0.50"
+  },
+  {
+    "c_last": "ANTIABLEOUGHT",
+    "max_family_discount": "0.50"
+  },
+  {
+    "c_last": "ANTIABLEPRES",
+    "max_family_discount": "0.50"
+  },
+  {
+    "c_last": "ANTIABLEPRI",
+    "max_family_discount": "0.50"
+  },
+  {
+    "c_last": "ANTIANTIABLE",
+    "max_family_discount": "0.50"
+  },
+  {
+    "c_last": "ANTIANTIANTI",
+    "max_family_discount": "0.49"
+  },
+  {
+    "c_last": "ANTIANTIATION",
+    "max_family_discount": "0.50"
+  },
+  {
+    "c_last": "ANTIANTIBAR",
+    "max_family_discount": "0.50"
+  },
+  {
+    "c_last": "ANTIANTICALLY",
+    "max_family_discount": "0.50"
+  },
+  {
+    "c_last": "ANTIANTIEING",
+    "max_family_discount": "0.50"
+  },
+  {
+    "c_last": "ANTIANTIESE",
+    "max_family_discount": "0.50"
+  },
+  {
+    "c_last": "ANTIANTIOUGHT",
+    "max_family_discount": "0.50"
+  },
+  {
+    "c_last": "ANTIANTIPRES",
+    "max_family_discount": "0.50"
+  },
+  {
+    "c_last": "ANTIANTIPRI",
+    "max_family_discount": "0.50"
+  },
+  {
+    "c_last": "ANTIATIONABLE",
+    "max_family_discount": "0.50"
+  },
+  {
+    "c_last": "ANTIATIONANTI",
+    "max_family_discount": "0.50"
+  },
+  {
+    "c_last": "ANTIATIONATION",
+    "max_family_discount": "0.50"
+  },
+  {
+    "c_last": "ANTIATIONBAR",
+    "max_family_discount": "0.50"
+  },
+  {
+    "c_last": "ANTIATIONCALLY",
+    "max_family_discount": "0.49"
+  },
+  {
+    "c_last": "ANTIATIONEING",
+    "max_family_discount": "0.50"
+  },
+  {
+    "c_last": "ANTIATIONESE",
+    "max_family_discount": "0.50"
+  },
+  {
+    "c_last": "ANTIATIONOUGHT",
+    "max_family_discount": "0.50"
+  },
+  {
+    "c_last": "ANTIATIONPRES",
+    "max_family_discount": "0.50"
+  },
+  {
+    "c_last": "ANTIATIONPRI",
+    "max_family_discount": "0.50"
+  },
+  {
+    "c_last": "ANTIBARABLE",
+    "max_family_discount": "0.50"
+  },
+  {
+    "c_last": "ANTIBARANTI",
+    "max_family_discount": "0.50"
+  },
+  {
+    "c_last": "ANTIBARATION",
+    "max_family_discount": "0.49"
+  },
+  {
+    "c_last": "ANTIBARBAR",
+    "max_family_discount": "0.50"
+  },
+  {
+    "c_last": "ANTIBARCALLY",
+    "max_family_discount": "0.50"
+  },
+  {
+    "c_last": "ANTIBAREING",
+    "max_family_discount": "0.50"
+  },
+  {
+    "c_last": "ANTIBARESE",
+    "max_family_discount": "0.49"
+  },
+  {
+    "c_last": "ANTIBAROUGHT",
+    "max_family_discount": "0.50"
+  },
+  {
+    "c_last": "ANTIBARPRES",
+    "max_family_discount": "0.50"
+  },
+  {
+    "c_last": "ANTIBARPRI",
+    "max_family_discount": "0.50"
+  },
+  {
+    "c_last": "ANTICALLYABLE",
+    "max_family_discount": "0.50"
+  },
+  {
+    "c_last": "ANTICALLYANTI",
+    "max_family_discount": "0.50"
+  },
+  {
+    "c_last": "ANTICALLYATION",
+    "max_family_discount": "0.50"
+  },
+  {
+    "c_last": "ANTICALLYBAR",
+    "max_family_discount": "0.50"
+  },
+  {
+    "c_last": "ANTICALLYCALLY",
+    "max_family_discount": "0.50"
+  },
+  {
+    "c_last": "ANTICALLYEING",
+    "max_family_discount": "0.50"
+  },
+  {
+    "c_last": "ANTICALLYESE",
+    "max_family_discount": "0.50"
+  },
+  {
+    "c_last": "ANTICALLYOUGHT",
+    "max_family_discount": "0.50"
+  },
+  {
+    "c_last": "ANTICALLYPRES",
+    "max_family_discount": "0.50"
+  },
+  {
+    "c_last": "ANTICALLYPRI",
+    "max_family_discount": "0.50"
+  },
+  {
+    "c_last": "ANTIEINGABLE",
+    "max_family_discount": "0.50"
+  },
+  {
+    "c_last": "ANTIEINGANTI",
+    "max_family_discount": "0.50"
+  },
+  {
+    "c_last": "ANTIEINGATION",
+    "max_family_discount": "0.50"
+  },
+  {
+    "c_last": "ANTIEINGBAR",
+    "max_family_discount": "0.50"
+  },
+  {
+    "c_last": "ANTIEINGCALLY",
+    "max_family_discount": "0.50"
+  },
+  {
+    "c_last": "ANTIEINGEING",
+    "max_family_discount": "0.50"
+  },
+  {
+    "c_last": "ANTIEINGESE",
+    "max_family_discount": "0.50"
+  },
+  {
+    "c_last": "ANTIEINGOUGHT",
+    "max_family_discount": "0.50"
+  },
+  {
+    "c_last": "ANTIEINGPRES",
+    "max_family_discount": "0.50"
+  },
+  {
+    "c_last": "ANTIEINGPRI",
+    "max_family_discount": "0.50"
+  },
+  {
+    "c_last": "ANTIESEABLE",
+    "max_family_discount": "0.50"
+  },
+  {
+    "c_last": "ANTIESEANTI",
+    "max_family_discount": "0.50"
+  },
+  {
+    "c_last": "ANTIESEATION",
+    "max_family_discount": "0.50"
+  },
+  {
+    "c_last": "ANTIESEBAR",
+    "max_family_discount": "0.50"
+  },
+  {
+    "c_last": "ANTIESECALLY",
+    "max_family_discount": "0.50"
+  },
+  {
+    "c_last": "ANTIESEEING",
+    "max_family_discount": "0.50"
+  },
+  {
+    "c_last": "ANTIESEESE",
+    "max_family_discount": "0.50"
+  },
+  {
+    "c_last": "ANTIESEOUGHT",
+    "max_family_discount": "0.50"
+  },
+  {
+    "c_last": "ANTIESEPRES",
+    "max_family_discount": "0.50"
+  },
+  {
+    "c_last": "ANTIESEPRI",
+    "max_family_discount": "0.50"
+  },
+  {
+    "c_last": "ANTIOUGHTABLE",
+    "max_family_discount": "0.50"
+  },
+  {
+    "c_last": "ANTIOUGHTANTI",
+    "max_family_discount": "0.50"
+  },
+  {
+    "c_last": "ANTIOUGHTATION",
+    "max_family_discount": "0.50"
+  },
+  {
+    "c_last": "ANTIOUGHTBAR",
+    "max_family_discount": "0.50"
+  },
+  {
+    "c_last": "ANTIOUGHTCALLY",
+    "max_family_discount": "0.50"
+  },
+  {
+    "c_last": "ANTIOUGHTEING",
+    "max_family_discount": "0.50"
+  },
+  {
+    "c_last": "ANTIOUGHTESE",
+    "max_family_discount": "0.50"
+  },
+  {
+    "c_last": "ANTIOUGHTOUGHT",
+    "max_family_discount": "0.50"
+  },
+  {
+    "c_last": "ANTIOUGHTPRES",
+    "max_family_discount": "0.50"
+  },
+  {
+    "c_last": "ANTIOUGHTPRI",
+    "max_family_discount": "0.50"
+  },
+  {
+    "c_last": "ANTIPRESABLE",
+    "max_family_discount": "0.50"
+  },
+  {
+    "c_last": "ANTIPRESANTI",
+    "max_family_discount": "0.50"
+  },
+  {
+    "c_last": "ANTIPRESATION",
+    "max_family_discount": "0.50"
+  },
+  {
+    "c_last": "ANTIPRESBAR",
+    "max_family_discount": "0.50"
+  },
+  {
+    "c_last": "ANTIPRESCALLY",
+    "max_family_discount": "0.50"
+  },
+  {
+    "c_last": "ANTIPRESEING",
+    "max_family_discount": "0.50"
+  },
+  {
+    "c_last": "ANTIPRESESE",
+    "max_family_discount": "0.50"
+  },
+  {
+    "c_last": "ANTIPRESOUGHT",
+    "max_family_discount": "0.50"
+  },
+  {
+    "c_last": "ANTIPRESPRES",
+    "max_family_discount": "0.50"
+  },
+  {
+    "c_last": "ANTIPRESPRI",
+    "max_family_discount": "0.50"
+  },
+  {
+    "c_last": "ANTIPRIABLE",
+    "max_family_discount": "0.50"
+  },
+  {
+    "c_last": "ANTIPRIANTI",
+    "max_family_discount": "0.50"
+  },
+  {
+    "c_last": "ANTIPRIATION",
+    "max_family_discount": "0.50"
+  },
+  {
+    "c_last": "ANTIPRIBAR",
+    "max_family_discount": "0.50"
+  },
+  {
+    "c_last": "ANTIPRICALLY",
+    "max_family_discount": "0.50"
+  },
+  {
+    "c_last": "ANTIPRIEING",
+    "max_family_discount": "0.50"
+  },
+  {
+    "c_last": "ANTIPRIESE",
+    "max_family_discount": "0.50"
+  },
+  {
+    "c_last": "ANTIPRIOUGHT",
+    "max_family_discount": "0.50"
+  },
+  {
+    "c_last": "ANTIPRIPRES",
+    "max_family_discount": "0.50"
+  },
+  {
+    "c_last": "ANTIPRIPRI",
+    "max_family_discount": "0.50"
+  },
+  {
+    "c_last": "CALLYABLEABLE",
+    "max_family_discount": "0.50"
+  },
+  {
+    "c_last": "CALLYABLEANTI",
+    "max_family_discount": "0.50"
+  },
+  {
+    "c_last": "CALLYABLEATION",
+    "max_family_discount": "0.50"
+  },
+  {
+    "c_last": "CALLYABLEBAR",
+    "max_family_discount": "0.50"
+  },
+  {
+    "c_last": "CALLYABLECALLY",
+    "max_family_discount": "0.50"
+  },
+  {
+    "c_last": "CALLYABLEEING",
+    "max_family_discount": "0.50"
+  },
+  {
+    "c_last": "CALLYABLEESE",
+    "max_family_discount": "0.50"
+  },
+  {
+    "c_last": "CALLYABLEOUGHT",
+    "max_family_discount": "0.50"
+  },
+  {
+    "c_last": "CALLYABLEPRES",
+    "max_family_discount": "0.50"
+  },
+  {
+    "c_last": "CALLYABLEPRI",
+    "max_family_discount": "0.50"
+  },
+  {
+    "c_last": "CALLYANTIABLE",
+    "max_family_discount": "0.50"
+  },
+  {
+    "c_last": "CALLYANTIANTI",
+    "max_family_discount": "0.50"
+  },
+  {
+    "c_last": "CALLYANTIATION",
+    "max_family_discount": "0.50"
+  },
+  {
+    "c_last": "CALLYANTIBAR",
+    "max_family_discount": "0.50"
+  },
+  {
+    "c_last": "CALLYANTICALLY",
+    "max_family_discount": "0.50"
+  },
+  {
+    "c_last": "CALLYANTIEING",
+    "max_family_discount": "0.50"
+  },
+  {
+    "c_last": "CALLYANTIESE",
+    "max_family_discount": "0.50"
+  },
+  {
+    "c_last": "CALLYANTIOUGHT",
+    "max_family_discount": "0.50"
+  },
+  {
+    "c_last": "CALLYANTIPRES",
+    "max_family_discount": "0.50"
+  },
+  {
+    "c_last": "CALLYANTIPRI",
+    "max_family_discount": "0.50"
+  },
+  {
+    "c_last": "CALLYATIONABLE",
+    "max_family_discount": "0.50"
+  },
+  {
+    "c_last": "CALLYATIONANTI",
+    "max_family_discount": "0.50"
+  },
+  {
+    "c_last": "CALLYATIONATION",
+    "max_family_discount": "0.50"
+  },
+  {
+    "c_last": "CALLYATIONBAR",
+    "max_family_discount": "0.50"
+  },
+  {
+    "c_last": "CALLYATIONCALLY",
+    "max_family_discount": "0.50"
+  },
+  {
+    "c_last": "CALLYATIONEING",
+    "max_family_discount": "0.49"
+  },
+  {
+    "c_last": "CALLYATIONESE",
+    "max_family_discount": "0.50"
+  },
+  {
+    "c_last": "CALLYATIONOUGHT",
+    "max_family_discount": "0.50"
+  },
+  {
+    "c_last": "CALLYATIONPRES",
+    "max_family_discount": "0.50"
+  },
+  {
+    "c_last": "CALLYATIONPRI",
+    "max_family_discount": "0.50"
+  },
+  {
+    "c_last": "CALLYBARABLE",
+    "max_family_discount": "0.50"
+  },
+  {
+    "c_last": "CALLYBARANTI",
+    "max_family_discount": "0.50"
+  },
+  {
+    "c_last": "CALLYBARATION",
+    "max_family_discount": "0.50"
+  },
+  {
+    "c_last": "CALLYBARBAR",
+    "max_family_discount": "0.50"
+  },
+  {
+    "c_last": "CALLYBARCALLY",
+    "max_family_discount": "0.50"
+  },
+  {
+    "c_last": "CALLYBAREING",
+    "max_family_discount": "0.50"
+  },
+  {
+    "c_last": "CALLYBARESE",
+    "max_family_discount": "0.50"
+  },
+  {
+    "c_last": "CALLYBAROUGHT",
+    "max_family_discount": "0.50"
+  },
+  {
+    "c_last": "CALLYBARPRES",
+    "max_family_discount": "0.50"
+  },
+  {
+    "c_last": "CALLYBARPRI",
+    "max_family_discount": "0.50"
+  },
+  {
+    "c_last": "CALLYCALLYABLE",
+    "max_family_discount": "0.50"
+  },
+  {
+    "c_last": "CALLYCALLYANTI",
+    "max_family_discount": "0.50"
+  },
+  {
+    "c_last": "CALLYCALLYATION",
+    "max_family_discount": "0.50"
+  },
+  {
+    "c_last": "CALLYCALLYBAR",
+    "max_family_discount": "0.49"
+  },
+  {
+    "c_last": "CALLYCALLYCALLY",
+    "max_family_discount": "0.50"
+  },
+  {
+    "c_last": "CALLYCALLYEING",
+    "max_family_discount": "0.50"
+  },
+  {
+    "c_last": "CALLYCALLYESE",
+    "max_family_discount": "0.50"
+  },
+  {
+    "c_last": "CALLYCALLYOUGHT",
+    "max_family_discount": "0.50"
+  },
+  {
+    "c_last": "CALLYCALLYPRES",
+    "max_family_discount": "0.50"
+  },
+  {
+    "c_last": "CALLYCALLYPRI",
+    "max_family_discount": "0.50"
+  },
+  {
+    "c_last": "CALLYEINGABLE",
+    "max_family_discount": "0.50"
+  },
+  {
+    "c_last": "CALLYEINGANTI",
+    "max_family_discount": "0.50"
+  },
+  {
+    "c_last": "CALLYEINGATION",
+    "max_family_discount": "0.50"
+  },
+  {
+    "c_last": "CALLYEINGBAR",
+    "max_family_discount": "0.50"
+  },
+  {
+    "c_last": "CALLYEINGCALLY",
+    "max_family_discount": "0.50"
+  },
+  {
+    "c_last": "CALLYEINGEING",
+    "max_family_discount": "0.50"
+  },
+  {
+    "c_last": "CALLYEINGESE",
+    "max_family_discount": "0.50"
+  },
+  {
+    "c_last": "CALLYEINGOUGHT",
+    "max_family_discount": "0.50"
+  },
+  {
+    "c_last": "CALLYEINGPRES",
+    "max_family_discount": "0.50"
+  },
+  {
+    "c_last": "CALLYEINGPRI",
+    "max_family_discount": "0.50"
+  },
+  {
+    "c_last": "CALLYESEABLE",
+    "max_family_discount": "0.50"
+  },
+  {
+    "c_last": "CALLYESEANTI",
+    "max_family_discount": "0.50"
+  },
+  {
+    "c_last": "CALLYESEATION",
+    "max_family_discount": "0.50"
+  },
+  {
+    "c_last": "CALLYESEBAR",
+    "max_family_discount": "0.50"
+  },
+  {
+    "c_last": "CALLYESECALLY",
+    "max_family_discount": "0.50"
+  },
+  {
+    "c_last": "CALLYESEEING",
+    "max_family_discount": "0.50"
+  },
+  {
+    "c_last": "CALLYESEESE",
+    "max_family_discount": "0.50"
+  },
+  {
+    "c_last": "CALLYESEOUGHT",
+    "max_family_discount": "0.50"
+  },
+  {
+    "c_last": "CALLYESEPRES",
+    "max_family_discount": "0.50"
+  },
+  {
+    "c_last": "CALLYESEPRI",
+    "max_family_discount": "0.50"
+  },
+  {
+    "c_last": "CALLYOUGHTABLE",
+    "max_family_discount": "0.49"
+  },
+  {
+    "c_last": "CALLYOUGHTANTI",
+    "max_family_discount": "0.50"
+  },
+  {
+    "c_last": "CALLYOUGHTATION",
+    "max_family_discount": "0.50"
+  },
+  {
+    "c_last": "CALLYOUGHTBAR",
+    "max_family_discount": "0.50"
+  },
+  {
+    "c_last": "CALLYOUGHTCALLY",
+    "max_family_discount": "0.50"
+  },
+  {
+    "c_last": "CALLYOUGHTEING",
+    "max_family_discount": "0.50"
+  },
+  {
+    "c_last": "CALLYOUGHTESE",
+    "max_family_discount": "0.50"
+  },
+  {
+    "c_last": "CALLYOUGHTOUGHT",
+    "max_family_discount": "0.50"
+  },
+  {
+    "c_last": "CALLYOUGHTPRES",
+    "max_family_discount": "0.50"
+  },
+  {
+    "c_last": "CALLYOUGHTPRI",
+    "max_family_discount": "0.50"
+  },
+  {
+    "c_last": "CALLYPRESABLE",
+    "max_family_discount": "0.50"
+  },
+  {
+    "c_last": "CALLYPRESANTI",
+    "max_family_discount": "0.50"
+  },
+  {
+    "c_last": "CALLYPRESATION",
+    "max_family_discount": "0.50"
+  },
+  {
+    "c_last": "CALLYPRESBAR",
+    "max_family_discount": "0.50"
+  },
+  {
+    "c_last": "CALLYPRESCALLY",
+    "max_family_discount": "0.50"
+  },
+  {
+    "c_last": "CALLYPRESEING",
+    "max_family_discount": "0.50"
+  },
+  {
+    "c_last": "CALLYPRESESE",
+    "max_family_discount": "0.50"
+  },
+  {
+    "c_last": "CALLYPRESOUGHT",
+    "max_family_discount": "0.49"
+  },
+  {
+    "c_last": "CALLYPRESPRES",
+    "max_family_discount": "0.50"
+  },
+  {
+    "c_last": "CALLYPRESPRI",
+    "max_family_discount": "0.50"
+  },
+  {
+    "c_last": "CALLYPRIABLE",
+    "max_family_discount": "0.50"
+  },
+  {
+    "c_last": "CALLYPRIANTI",
+    "max_family_discount": "0.49"
+  },
+  {
+    "c_last": "CALLYPRIATION",
+    "max_family_discount": "0.50"
+  },
+  {
+    "c_last": "CALLYPRIBAR",
+    "max_family_discount": "0.50"
+  },
+  {
+    "c_last": "CALLYPRICALLY",
+    "max_family_discount": "0.50"
+  },
+  {
+    "c_last": "CALLYPRIEING",
+    "max_family_discount": "0.50"
+  },
+  {
+    "c_last": "CALLYPRIESE",
+    "max_family_discount": "0.50"
+  },
+  {
+    "c_last": "CALLYPRIOUGHT",
+    "max_family_discount": "0.50"
+  },
+  {
+    "c_last": "CALLYPRIPRES",
+    "max_family_discount": "0.50"
+  },
+  {
+    "c_last": "CALLYPRIPRI",
+    "max_family_discount": "0.50"
+  }
+]

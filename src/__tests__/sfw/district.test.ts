@@ -1,11 +1,10 @@
-import { afterAll, beforeAll, describe, expect, test } from '@jest/globals'
-import { readFileSync } from 'fs'
+import { afterAll, beforeAll, describe, test } from '@jest/globals'
 import { Client } from 'pg'
 import { connect } from '../../connect'
 import { QueryGenerator } from '../../engines/q'
-import SQLReturnRowInterface from '../../schemas/SQLRowInterface.type'
-import { q0, q1, q2, q3, q4 } from '../../sfw/district'
-import toSystemPath, { SolutionFilePath } from '../../utils/solution-path'
+import { q0, q1, q2, q3, q4, q5, q6 } from '../../sfw/district'
+import { SolutionFilePath } from '../../utils/solution-path'
+import { orderedRowTest, unorderedRowTest } from '../utils/helpers.row.test'
 
 let client: Client
 
@@ -39,12 +38,16 @@ describe('District SFW query', () => {
       'sfw/query_results-2023-10-03_91144',
       q4,
     ],
-  ])('%s - %s', async (_, sol, intermediateQuery) => {
-    const solution: SQLReturnRowInterface[] = JSON.parse(
-      readFileSync(toSystemPath(sol)).toString(),
-    )
-    const queryResult = await intermediateQuery(client)
+  ])(
+    '%s - %s',
+    unorderedRowTest(() => client),
+  )
 
-    solution.forEach((row) => expect(queryResult).toContainEqual(row))
-  })
+  test.each<[string, SolutionFilePath, ReturnType<QueryGenerator>]>([
+    [`Q5`, 'sfw/query_results-2023-10-04_34501', q5],
+    [`Q6`, 'sfw/query_results-2023-10-04_34751', q6],
+  ])(
+    'Strict order %s - %s',
+    orderedRowTest(() => client),
+  )
 })
