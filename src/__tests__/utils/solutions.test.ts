@@ -35,6 +35,8 @@ describe('sol-path', () => {
     'aggregate/query_results-2023-10-04_50113',
     'aggregate/query_results-2023-10-04_50131',
     'aggregate/query_results-2023-10-04_50150',
+    'join/query_results-2023-10-06_30553',
+    'join/query_results-2023-10-06_30822',
   ])('Preflight check - %s', (filename) => {
     expect(openSync(toSystemPath(filename), 'r')).toEqual(expect.any(Number))
   })
