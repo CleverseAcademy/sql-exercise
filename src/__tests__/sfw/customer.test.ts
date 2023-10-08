@@ -1,5 +1,4 @@
 import { afterAll, beforeAll, describe, test } from '@jest/globals'
-import { Client } from 'pg'
 import { connect } from '../../connect'
 import { QueryGenerator } from '../../engines/q'
 import {
@@ -20,18 +19,24 @@ import {
   q9,
 } from '../../sfw/customer'
 import { SolutionFilePath } from '../../utils/solution-path'
-import { orderedRowTest, unorderedRowTest } from '../utils/helpers.row.test'
+import {
+  ClientPtr,
+  orderedRowTest,
+  unorderedRowTest,
+} from '../utils/helpers.row.test'
 
-let client: Client
+let clientPtr: ClientPtr = {
+  client: null,
+}
 
 beforeAll(async () => {
-  client = await connect()
+  clientPtr.client = await connect()
 })
 
 beforeAll((done) => done())
 
 afterAll((done) => {
-  client.end()
+  if (clientPtr.client !== null) clientPtr.client.end()
   done()
 })
 
@@ -53,17 +58,11 @@ describe('Customer SFW query', () => {
     [`Q10`, 'sfw/query_results-2023-10-04_21107', q10],
     [`Q11`, 'sfw/query_results-2023-10-04_21345', q11],
     [`Q12`, 'sfw/query_results-2023-10-04_21837', q12],
-  ])(
-    '%s - %s',
-    unorderedRowTest(() => client),
-  )
+  ])('%s - %s', unorderedRowTest(clientPtr))
 
   test.each<[string, SolutionFilePath, ReturnType<QueryGenerator>]>([
     [`Q13`, 'sfw/query_results-2023-10-04_30601', q13],
     [`Q14`, 'sfw/query_results-2023-10-04_32555', q14],
     [`Q15`, 'sfw/query_results-2023-10-04_33455', q15],
-  ])(
-    'Strict order %s - %s',
-    orderedRowTest(() => client),
-  )
+  ])('Strict order %s - %s', orderedRowTest(clientPtr))
 })

@@ -1,21 +1,26 @@
 import { afterAll, beforeAll, describe, test } from '@jest/globals'
-import { Client } from 'pg'
 import { connect } from '../../connect'
 import { QueryGenerator } from '../../engines/q'
 import { q0, q1, q2, q3, q4, q5, q6 } from '../../sfw/district'
 import { SolutionFilePath } from '../../utils/solution-path'
-import { orderedRowTest, unorderedRowTest } from '../utils/helpers.row.test'
+import {
+  ClientPtr,
+  orderedRowTest,
+  unorderedRowTest,
+} from '../utils/helpers.row.test'
 
-let client: Client
+let clientPtr: ClientPtr = {
+  client: null,
+}
 
 beforeAll(async () => {
-  client = await connect()
+  clientPtr.client = await connect()
 })
 
 beforeAll((done) => done())
 
 afterAll((done) => {
-  client.end()
+  if (clientPtr.client !== null) clientPtr.client.end()
   done()
 })
 
@@ -38,16 +43,10 @@ describe('District SFW query', () => {
       'sfw/query_results-2023-10-03_91144',
       q4,
     ],
-  ])(
-    '%s - %s',
-    unorderedRowTest(() => client),
-  )
+  ])('%s - %s', unorderedRowTest(clientPtr))
 
   test.each<[string, SolutionFilePath, ReturnType<QueryGenerator>]>([
     [`Q5`, 'sfw/query_results-2023-10-04_34501', q5],
     [`Q6`, 'sfw/query_results-2023-10-04_34751', q6],
-  ])(
-    'Strict order %s - %s',
-    orderedRowTest(() => client),
-  )
+  ])('Strict order %s - %s', orderedRowTest(clientPtr))
 })

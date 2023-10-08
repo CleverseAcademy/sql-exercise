@@ -1,21 +1,22 @@
 import { afterAll, beforeAll, describe, test } from '@jest/globals'
-import { Client } from 'pg'
 import { q1, q2, q3, q4, q5, q6, q7, q8, q9 } from '../../aggregate/customer'
 import { connect } from '../../connect'
 import { QueryGenerator } from '../../engines/q'
 import { SolutionFilePath } from '../../utils/solution-path'
-import { unorderedRowTest } from '../utils/helpers.row.test'
+import { ClientPtr, unorderedRowTest } from '../utils/helpers.row.test'
 
-let client: Client
+let clientPtr: ClientPtr = {
+  client: null,
+}
 
 beforeAll(async () => {
-  client = await connect()
+  clientPtr.client = await connect()
 })
 
 beforeAll((done) => done())
 
 afterAll((done) => {
-  client.end()
+  if (clientPtr.client !== null) clientPtr.client.end()
   done()
 })
 
@@ -30,8 +31,5 @@ describe('Customer Aggregate query', () => {
     [`Q7`, 'aggregate/query_results-2023-10-04_50113', q7],
     [`Q8`, 'aggregate/query_results-2023-10-04_50131', q8],
     [`Q9`, 'aggregate/query_results-2023-10-04_50150', q9],
-  ])(
-    '%s - %s',
-    unorderedRowTest(() => client),
-  )
+  ])('%s - %s', unorderedRowTest(clientPtr))
 })
