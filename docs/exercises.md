@@ -4,22 +4,22 @@
 
 ### SELECT - *Read* in CRUD
 1. [SELECT *field(s)* FROM *table(s)* WHERE *predicate(s)*](./read/sfw.md) 
-2. [Aggregate Functions](./read/aggregate.md)
-3. [JOIN - INNER, LEFT, RIGHT, and OUTER JOIN](./read/join.md)
+2. [Aggregate Functions - TBD](./read/aggregate.md)
+3. [JOIN - TBD](./read/join.md)
 
 ### INSERT - *Create* in CRUD
 
-[Exercises](./create/readme.md)
+[TBD](./create/readme.md)
 
 ### UPDATE - *Update* in CRUD
 
-[Exercises](./update/readme.md)
+[TBD](./update/readme.md)
 
 ### DELETE - *Delete* in CRUD
 
-[Exercises](./delete/readme.md)
+[TBD](./delete/readme.md)
 
-# Advanced 
+## Advanced 
 
 4. Windowing - TBD
 5. UNION, INTERSECT, EXCEPT - TBD
