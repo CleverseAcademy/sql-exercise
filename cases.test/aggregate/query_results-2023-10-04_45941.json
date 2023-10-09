@@ -1,10 +1,10 @@
 [
   {
-    "crd": "BC",
+    "c_credit": "BC",
     "cnt": "29978"
   },
   {
-    "crd": "GC",
+    "c_credit": "GC",
     "cnt": "270022"
   }
 ]

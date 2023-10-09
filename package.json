@@ -11,6 +11,7 @@
     "test": "jest",
     "test-sfw-district": "jest .*sfw/district.test.ts --testNamePattern",
     "test-sfw-customer": "jest .*sfw/customer.test.ts --testNamePattern",
+    "test-aggregate-customer": "jest .*aggregate/customer.test.ts --testNamePattern",
     "test-join": "jest .*join/.* --testNamePattern"
   },
   "repository": {
