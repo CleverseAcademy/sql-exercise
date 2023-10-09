@@ -8,6 +8,16 @@ import Dto5 from '../schemas/sfw/district/5.dto'
 import Dto6 from '../schemas/sfw/district/6.dto'
 
 export const q0 = q<Dto0>(`
+SELECT
+  d_name,
+  d_street_1,
+  d_street_2,
+  d_city,
+  d_zip
+FROM
+  district1
+WHERE
+  d_tax >= 0.2
 `)
 
 export const q1 = q<Dto1>(`

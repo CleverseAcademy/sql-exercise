@@ -4,7 +4,7 @@
 
 Instead of concentrating on the building process, we should express our sincere gratitude to individuals who offered up their time and energy to enhance the database system. One way to do this is to award those people with stars.
 
-![How to give a star](docs/stars.png)
+![How to give a star](docs/assets/stars.png)
 
 *What we need to know is how to spin up the TPC-C database...*
 
@@ -29,6 +29,29 @@ docker start pg-querying-workshop
 ```
 to start the database without re-initialization again.
 
-## Exercises
+### Codebase setup
+
+First, install all required packages, both dependencies and devDependencies, with the following command:
+```sh
+npm install
+```
+
+Secondly, run the following test command to make sure that everything is in place where it is supposed to be.
+
+```sh
+npm run test-sfw-district q0
+```
+
+The final result was envisioned to look like this as a solid beginning to our long journey down this path.
+
+![
+PGHOST="localhost"
+PGPORT=5432
+PGUSER=postgres
+PGPASSWORD="postgres-tpcc"
+PGDATABASE="postgres"
+](/docs/assets/the-beginning.png)
+
+## Looking for the next step?
 
 Browse all exercises at [docs folder](docs/exercises.md)
