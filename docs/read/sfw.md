@@ -6,7 +6,7 @@
 
 **Verification command:**
 ```sh
-npm run test-sfw-district [Question no.]
+npm run test-sfw-district [Question No.]
 ```
 
 ### Questions
@@ -25,7 +25,7 @@ npm run test-sfw-district [Question no.]
 
 **Verification command:**
 ```sh
-npm run test-sfw-customer [Question no.]
+npm run test-sfw-customer [Question No.]
 ```
 
 ### Questions

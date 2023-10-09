@@ -10,6 +10,8 @@ Instead of concentrating on the building process, we should express our sincere 
 
 ## Getting started
 
+### Database setup
+
 ```sh
 docker run --name=pg-querying-workshop -p 5432:5432 cloudiana/pg-tpcc:1.1-1X-WITH-INDEX
 ```
