@@ -26,27 +26,43 @@ afterAll((done) => {
 
 describe('District SFW query', () => {
   test.each<[string, SolutionFilePath, ReturnType<QueryGenerator>]>([
-    ['Where tax is >= 20%', 'sfw/query_results-2023-10-03_14308', q0],
-    ['Where zip code ending with 9', 'sfw/query_results-2023-10-03_81527', q1],
     [
-      `Where district's year-to-date is less than 1900000`,
+      'Q0: where tax is greater or equal to 20%',
+      'sfw/query_results-2023-10-03_14308',
+      q0,
+    ],
+    [
+      'Q1: where the zip code ends with 9',
+      'sfw/query_results-2023-10-03_81527',
+      q1,
+    ],
+    [
+      `Q2: where year-to-date balance is less than $1,900,000`,
       'sfw/query_results-2023-10-03_84741',
       q2,
     ],
     [
-      `Where district's year-to-date is between 1850000 to 2050000`,
+      `Q3: where year-to-date balance is in the range of $1,850,000 to $2,050,000.`,
       'sfw/query_results-2023-10-03_90248',
       q3,
     ],
     [
-      `Where district's tax is between 0.07 to 0.12`,
+      `Q4: where tax is greater than or equal to 7% but not greater than 12%.`,
       'sfw/query_results-2023-10-03_91144',
       q4,
     ],
   ])('%s - %s', unorderedRowTest(clientPtr))
 
   test.each<[string, SolutionFilePath, ReturnType<QueryGenerator>]>([
-    [`Q5`, 'sfw/query_results-2023-10-04_34501', q5],
-    [`Q6`, 'sfw/query_results-2023-10-04_34751', q6],
+    [
+      `Q5: where the year-to-date balance is greater than $2,000,000. Sort by next available order ID from smallest to biggest.`,
+      'sfw/query_results-2023-10-04_34501',
+      q5,
+    ],
+    [
+      `Q6: where its tax is in the range of 12%–15%. Sort by tax rate from largest to smallest.`,
+      'sfw/query_results-2023-10-04_34751',
+      q6,
+    ],
   ])('Strict order %s - %s', orderedRowTest(clientPtr))
 })
