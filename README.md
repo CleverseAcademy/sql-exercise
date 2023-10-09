@@ -1,4 +1,4 @@
-# SQL Exercise
+# SQL Fundamental exercises
 
 *The [TPC-C specification](https://www.tpc.org/tpcc/default5.asp) was used to generate this exercise, and [Percona-Lab's sysbench-tpcc](https://github.com/Percona-Lab/sysbench-tpcc) source code served as the data generator.*
 
