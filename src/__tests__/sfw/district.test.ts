@@ -60,7 +60,7 @@ describe('District SFW query', () => {
       q5,
     ],
     [
-      `Q6: where its tax is in the range of 12%–15%. Sort by tax rate from largest to smallest.`,
+      `Q6: where its tax is in the range of 12% - 15%. Sort by tax rate from largest to smallest.`,
       'sfw/query_results-2023-10-04_34751',
       q6,
     ],
