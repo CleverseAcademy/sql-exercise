@@ -1,4 +1,10 @@
 {
   "typescript.tsdk": "node_modules/typescript/lib",
-  "conventionalCommits.scopes": ["utils", "sfw", "aggregate", "join"]
+  "conventionalCommits.scopes": [
+    "utils",
+    "sfw",
+    "aggregate",
+    "join",
+    "preflight"
+  ]
 }
