@@ -83,7 +83,7 @@ describe('Customer Aggregate query', () => {
       'aggregate/query_results-2023-10-04_50150',
       q9,
     ],
-  ])('%s - %s', unorderedRowTest(clientPtr))
+  ])('%s - cases.test/%s', unorderedRowTest(clientPtr))
 
   test.each<[string, SolutionFilePath, ReturnType<QueryGenerator>]>([
     [
@@ -96,5 +96,5 @@ describe('Customer Aggregate query', () => {
       'aggregate/query_results-2023-10-10_111414',
       q11,
     ],
-  ])('Sort strictly %s - %s', orderedRowTest(clientPtr))
+  ])('Sort strictly %s - cases.test/%s', orderedRowTest(clientPtr))
 })

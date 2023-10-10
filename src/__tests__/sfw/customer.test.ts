@@ -102,7 +102,7 @@ describe('Customer SFW query', () => {
       'sfw/query_results-2023-10-04_21837',
       q12,
     ],
-  ])('%s - %s', unorderedRowTest(clientPtr))
+  ])('%s - cases.test/%s', unorderedRowTest(clientPtr))
 
   test.each<[string, SolutionFilePath, ReturnType<QueryGenerator>]>([
     [
@@ -116,5 +116,5 @@ describe('Customer SFW query', () => {
       'sfw/query_results-2023-10-04_33455',
       q15,
     ],
-  ])('Sort strictly %s - %s', orderedRowTest(clientPtr))
+  ])('Sort strictly %s - cases.test/%s', orderedRowTest(clientPtr))
 })
