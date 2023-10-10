@@ -1,9 +1,25 @@
 import { afterAll, beforeAll, describe, test } from '@jest/globals'
-import { q1, q2, q3, q4, q5, q6, q7, q8, q9 } from '../../aggregate/customer'
+import {
+  q1,
+  q10,
+  q11,
+  q2,
+  q3,
+  q4,
+  q5,
+  q6,
+  q7,
+  q8,
+  q9,
+} from '../../aggregate/customer'
 import { connect } from '../../connect'
 import { QueryGenerator } from '../../engines/q'
 import { SolutionFilePath } from '../../utils/solution-path'
-import { ClientPtr, unorderedRowTest } from '../utils/helpers.row.test'
+import {
+  ClientPtr,
+  orderedRowTest,
+  unorderedRowTest,
+} from '../utils/helpers.row.test'
 
 let clientPtr: ClientPtr = {
   client: null,
@@ -68,4 +84,17 @@ describe('Customer Aggregate query', () => {
       q9,
     ],
   ])('%s - %s', unorderedRowTest(clientPtr))
+
+  test.each<[string, SolutionFilePath, ReturnType<QueryGenerator>]>([
+    [
+      `Q10: Report the only state with more than 450 consumers' total year-to-date payments for each state`,
+      'aggregate/query_results-2023-10-10_111323',
+      q10,
+    ],
+    [
+      `Q11: Indicate how many consumers there are in each state where the average customer discount is no less than 25%`,
+      'aggregate/query_results-2023-10-10_111414',
+      q11,
+    ],
+  ])('Sort strictly %s - %s', orderedRowTest(clientPtr))
 })

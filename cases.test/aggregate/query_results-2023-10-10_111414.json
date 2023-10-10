@@ -1,0 +1,1627 @@
+[
+  {
+    "c_state": "ta",
+    "state_avg_discount": "0.26871035940803382664",
+    "state_ppls_cnt": "473"
+  },
+  {
+    "c_state": "sj",
+    "state_avg_discount": "0.26709905660377358491",
+    "state_ppls_cnt": "424"
+  },
+  {
+    "c_state": "pa",
+    "state_avg_discount": "0.26675925925925925926",
+    "state_ppls_cnt": "432"
+  },
+  {
+    "c_state": "mc",
+    "state_avg_discount": "0.26582750582750582751",
+    "state_ppls_cnt": "429"
+  },
+  {
+    "c_state": "ob",
+    "state_avg_discount": "0.26489270386266094421",
+    "state_ppls_cnt": "466"
+  },
+  {
+    "c_state": "mk",
+    "state_avg_discount": "0.26362586605080831409",
+    "state_ppls_cnt": "433"
+  },
+  {
+    "c_state": "wb",
+    "state_avg_discount": "0.26355658198614318707",
+    "state_ppls_cnt": "433"
+  },
+  {
+    "c_state": "ie",
+    "state_avg_discount": "0.26354625550660792952",
+    "state_ppls_cnt": "454"
+  },
+  {
+    "c_state": "he",
+    "state_avg_discount": "0.26353579175704989154",
+    "state_ppls_cnt": "461"
+  },
+  {
+    "c_state": "pv",
+    "state_avg_discount": "0.26336538461538461538",
+    "state_ppls_cnt": "416"
+  },
+  {
+    "c_state": "hm",
+    "state_avg_discount": "0.26303448275862068966",
+    "state_ppls_cnt": "435"
+  },
+  {
+    "c_state": "kn",
+    "state_avg_discount": "0.26285714285714285714",
+    "state_ppls_cnt": "441"
+  },
+  {
+    "c_state": "hy",
+    "state_avg_discount": "0.26278571428571428571",
+    "state_ppls_cnt": "420"
+  },
+  {
+    "c_state": "ft",
+    "state_avg_discount": "0.26267303102625298329",
+    "state_ppls_cnt": "419"
+  },
+  {
+    "c_state": "vt",
+    "state_avg_discount": "0.26253897550111358575",
+    "state_ppls_cnt": "449"
+  },
+  {
+    "c_state": "gp",
+    "state_avg_discount": "0.26233644859813084112",
+    "state_ppls_cnt": "428"
+  },
+  {
+    "c_state": "am",
+    "state_avg_discount": "0.26207943925233644860",
+    "state_ppls_cnt": "428"
+  },
+  {
+    "c_state": "zz",
+    "state_avg_discount": "0.26198630136986301370",
+    "state_ppls_cnt": "438"
+  },
+  {
+    "c_state": "aj",
+    "state_avg_discount": "0.26190023752969121140",
+    "state_ppls_cnt": "421"
+  },
+  {
+    "c_state": "jx",
+    "state_avg_discount": "0.26177927927927927928",
+    "state_ppls_cnt": "444"
+  },
+  {
+    "c_state": "ic",
+    "state_avg_discount": "0.26136792452830188679",
+    "state_ppls_cnt": "424"
+  },
+  {
+    "c_state": "cn",
+    "state_avg_discount": "0.26132118451025056948",
+    "state_ppls_cnt": "439"
+  },
+  {
+    "c_state": "wc",
+    "state_avg_discount": "0.26125592417061611374",
+    "state_ppls_cnt": "422"
+  },
+  {
+    "c_state": "cq",
+    "state_avg_discount": "0.26119638826185101580",
+    "state_ppls_cnt": "443"
+  },
+  {
+    "c_state": "ju",
+    "state_avg_discount": "0.26114164904862579281",
+    "state_ppls_cnt": "473"
+  },
+  {
+    "c_state": "xu",
+    "state_avg_discount": "0.26089324618736383442",
+    "state_ppls_cnt": "459"
+  },
+  {
+    "c_state": "ax",
+    "state_avg_discount": "0.26083932853717026379",
+    "state_ppls_cnt": "417"
+  },
+  {
+    "c_state": "hq",
+    "state_avg_discount": "0.26067538126361655773",
+    "state_ppls_cnt": "459"
+  },
+  {
+    "c_state": "eo",
+    "state_avg_discount": "0.26058679706601466993",
+    "state_ppls_cnt": "409"
+  },
+  {
+    "c_state": "og",
+    "state_avg_discount": "0.26056689342403628118",
+    "state_ppls_cnt": "441"
+  },
+  {
+    "c_state": "zp",
+    "state_avg_discount": "0.26048319327731092437",
+    "state_ppls_cnt": "476"
+  },
+  {
+    "c_state": "aq",
+    "state_avg_discount": "0.26033591731266149871",
+    "state_ppls_cnt": "387"
+  },
+  {
+    "c_state": "fu",
+    "state_avg_discount": "0.26028634361233480176",
+    "state_ppls_cnt": "454"
+  },
+  {
+    "c_state": "xj",
+    "state_avg_discount": "0.26027272727272727273",
+    "state_ppls_cnt": "440"
+  },
+  {
+    "c_state": "tv",
+    "state_avg_discount": "0.26025862068965517241",
+    "state_ppls_cnt": "464"
+  },
+  {
+    "c_state": "as",
+    "state_avg_discount": "0.26004784688995215311",
+    "state_ppls_cnt": "418"
+  },
+  {
+    "c_state": "vy",
+    "state_avg_discount": "0.26000000000000000000",
+    "state_ppls_cnt": "453"
+  },
+  {
+    "c_state": "kk",
+    "state_avg_discount": "0.25997658079625292740",
+    "state_ppls_cnt": "427"
+  },
+  {
+    "c_state": "uv",
+    "state_avg_discount": "0.25992628992628992629",
+    "state_ppls_cnt": "407"
+  },
+  {
+    "c_state": "jg",
+    "state_avg_discount": "0.25987206823027718550",
+    "state_ppls_cnt": "469"
+  },
+  {
+    "c_state": "wl",
+    "state_avg_discount": "0.25971302428256070640",
+    "state_ppls_cnt": "453"
+  },
+  {
+    "c_state": "fr",
+    "state_avg_discount": "0.25968137254901960784",
+    "state_ppls_cnt": "408"
+  },
+  {
+    "c_state": "jz",
+    "state_avg_discount": "0.25966063348416289593",
+    "state_ppls_cnt": "442"
+  },
+  {
+    "c_state": "sb",
+    "state_avg_discount": "0.25959641255605381166",
+    "state_ppls_cnt": "446"
+  },
+  {
+    "c_state": "hp",
+    "state_avg_discount": "0.25954954954954954955",
+    "state_ppls_cnt": "444"
+  },
+  {
+    "c_state": "ww",
+    "state_avg_discount": "0.25953810623556581986",
+    "state_ppls_cnt": "433"
+  },
+  {
+    "c_state": "lf",
+    "state_avg_discount": "0.25942660550458715596",
+    "state_ppls_cnt": "436"
+  },
+  {
+    "c_state": "sz",
+    "state_avg_discount": "0.25936018957345971564",
+    "state_ppls_cnt": "422"
+  },
+  {
+    "c_state": "jf",
+    "state_avg_discount": "0.25929359823399558499",
+    "state_ppls_cnt": "453"
+  },
+  {
+    "c_state": "vk",
+    "state_avg_discount": "0.25928229665071770335",
+    "state_ppls_cnt": "418"
+  },
+  {
+    "c_state": "qy",
+    "state_avg_discount": "0.25924657534246575342",
+    "state_ppls_cnt": "438"
+  },
+  {
+    "c_state": "mr",
+    "state_avg_discount": "0.25922077922077922078",
+    "state_ppls_cnt": "462"
+  },
+  {
+    "c_state": "au",
+    "state_avg_discount": "0.25918072289156626506",
+    "state_ppls_cnt": "415"
+  },
+  {
+    "c_state": "hb",
+    "state_avg_discount": "0.25903225806451612903",
+    "state_ppls_cnt": "465"
+  },
+  {
+    "c_state": "um",
+    "state_avg_discount": "0.25900452488687782805",
+    "state_ppls_cnt": "442"
+  },
+  {
+    "c_state": "px",
+    "state_avg_discount": "0.25899553571428571429",
+    "state_ppls_cnt": "448"
+  },
+  {
+    "c_state": "pf",
+    "state_avg_discount": "0.25895216400911161731",
+    "state_ppls_cnt": "439"
+  },
+  {
+    "c_state": "ir",
+    "state_avg_discount": "0.25889390519187358916",
+    "state_ppls_cnt": "443"
+  },
+  {
+    "c_state": "zv",
+    "state_avg_discount": "0.25880184331797235023",
+    "state_ppls_cnt": "434"
+  },
+  {
+    "c_state": "qt",
+    "state_avg_discount": "0.25879271070615034169",
+    "state_ppls_cnt": "439"
+  },
+  {
+    "c_state": "rq",
+    "state_avg_discount": "0.25878854625550660793",
+    "state_ppls_cnt": "454"
+  },
+  {
+    "c_state": "pr",
+    "state_avg_discount": "0.25872950819672131148",
+    "state_ppls_cnt": "488"
+  },
+  {
+    "c_state": "gd",
+    "state_avg_discount": "0.25870614035087719298",
+    "state_ppls_cnt": "456"
+  },
+  {
+    "c_state": "mo",
+    "state_avg_discount": "0.25865758754863813230",
+    "state_ppls_cnt": "514"
+  },
+  {
+    "c_state": "ch",
+    "state_avg_discount": "0.25855875831485587583",
+    "state_ppls_cnt": "451"
+  },
+  {
+    "c_state": "py",
+    "state_avg_discount": "0.25854077253218884120",
+    "state_ppls_cnt": "466"
+  },
+  {
+    "c_state": "qv",
+    "state_avg_discount": "0.25852097130242825607",
+    "state_ppls_cnt": "453"
+  },
+  {
+    "c_state": "na",
+    "state_avg_discount": "0.25848275862068965517",
+    "state_ppls_cnt": "435"
+  },
+  {
+    "c_state": "zf",
+    "state_avg_discount": "0.25847107438016528926",
+    "state_ppls_cnt": "484"
+  },
+  {
+    "c_state": "we",
+    "state_avg_discount": "0.25842482100238663484",
+    "state_ppls_cnt": "419"
+  },
+  {
+    "c_state": "gn",
+    "state_avg_discount": "0.25836065573770491803",
+    "state_ppls_cnt": "427"
+  },
+  {
+    "c_state": "sl",
+    "state_avg_discount": "0.25822988505747126437",
+    "state_ppls_cnt": "435"
+  },
+  {
+    "c_state": "ls",
+    "state_avg_discount": "0.25821100917431192661",
+    "state_ppls_cnt": "436"
+  },
+  {
+    "c_state": "rm",
+    "state_avg_discount": "0.25820833333333333333",
+    "state_ppls_cnt": "480"
+  },
+  {
+    "c_state": "jd",
+    "state_avg_discount": "0.25813063063063063063",
+    "state_ppls_cnt": "444"
+  },
+  {
+    "c_state": "ay",
+    "state_avg_discount": "0.25812500000000000000",
+    "state_ppls_cnt": "432"
+  },
+  {
+    "c_state": "se",
+    "state_avg_discount": "0.25809638554216867470",
+    "state_ppls_cnt": "415"
+  },
+  {
+    "c_state": "fd",
+    "state_avg_discount": "0.25799086757990867580",
+    "state_ppls_cnt": "438"
+  },
+  {
+    "c_state": "bu",
+    "state_avg_discount": "0.25798594847775175644",
+    "state_ppls_cnt": "427"
+  },
+  {
+    "c_state": "rk",
+    "state_avg_discount": "0.25797131147540983607",
+    "state_ppls_cnt": "488"
+  },
+  {
+    "c_state": "dq",
+    "state_avg_discount": "0.25794000000000000000",
+    "state_ppls_cnt": "500"
+  },
+  {
+    "c_state": "hw",
+    "state_avg_discount": "0.25790697674418604651",
+    "state_ppls_cnt": "430"
+  },
+  {
+    "c_state": "cp",
+    "state_avg_discount": "0.25782511210762331839",
+    "state_ppls_cnt": "446"
+  },
+  {
+    "c_state": "pu",
+    "state_avg_discount": "0.25775641025641025641",
+    "state_ppls_cnt": "468"
+  },
+  {
+    "c_state": "gj",
+    "state_avg_discount": "0.25765726681127982646",
+    "state_ppls_cnt": "461"
+  },
+  {
+    "c_state": "az",
+    "state_avg_discount": "0.25764568764568764569",
+    "state_ppls_cnt": "429"
+  },
+  {
+    "c_state": "fe",
+    "state_avg_discount": "0.25760084925690021231",
+    "state_ppls_cnt": "471"
+  },
+  {
+    "c_state": "dr",
+    "state_avg_discount": "0.25759550561797752809",
+    "state_ppls_cnt": "445"
+  },
+  {
+    "c_state": "cf",
+    "state_avg_discount": "0.25757510729613733906",
+    "state_ppls_cnt": "466"
+  },
+  {
+    "c_state": "tf",
+    "state_avg_discount": "0.25754347826086956522",
+    "state_ppls_cnt": "460"
+  },
+  {
+    "c_state": "qq",
+    "state_avg_discount": "0.25748717948717948718",
+    "state_ppls_cnt": "390"
+  },
+  {
+    "c_state": "ti",
+    "state_avg_discount": "0.25747203579418344519",
+    "state_ppls_cnt": "447"
+  },
+  {
+    "c_state": "ol",
+    "state_avg_discount": "0.25742459396751740139",
+    "state_ppls_cnt": "431"
+  },
+  {
+    "c_state": "cs",
+    "state_avg_discount": "0.25731914893617021277",
+    "state_ppls_cnt": "470"
+  },
+  {
+    "c_state": "lu",
+    "state_avg_discount": "0.25727272727272727273",
+    "state_ppls_cnt": "451"
+  },
+  {
+    "c_state": "jb",
+    "state_avg_discount": "0.25713286713286713287",
+    "state_ppls_cnt": "429"
+  },
+  {
+    "c_state": "tb",
+    "state_avg_discount": "0.25708061002178649237",
+    "state_ppls_cnt": "459"
+  },
+  {
+    "c_state": "hd",
+    "state_avg_discount": "0.25704347826086956522",
+    "state_ppls_cnt": "460"
+  },
+  {
+    "c_state": "oz",
+    "state_avg_discount": "0.25696202531645569620",
+    "state_ppls_cnt": "474"
+  },
+  {
+    "c_state": "yg",
+    "state_avg_discount": "0.25694835680751173709",
+    "state_ppls_cnt": "426"
+  },
+  {
+    "c_state": "ha",
+    "state_avg_discount": "0.25691796008869179601",
+    "state_ppls_cnt": "451"
+  },
+  {
+    "c_state": "av",
+    "state_avg_discount": "0.25690376569037656904",
+    "state_ppls_cnt": "478"
+  },
+  {
+    "c_state": "fc",
+    "state_avg_discount": "0.25686774941995359629",
+    "state_ppls_cnt": "431"
+  },
+  {
+    "c_state": "nm",
+    "state_avg_discount": "0.25680898876404494382",
+    "state_ppls_cnt": "445"
+  },
+  {
+    "c_state": "tr",
+    "state_avg_discount": "0.25680898876404494382",
+    "state_ppls_cnt": "445"
+  },
+  {
+    "c_state": "ys",
+    "state_avg_discount": "0.25672811059907834101",
+    "state_ppls_cnt": "434"
+  },
+  {
+    "c_state": "wz",
+    "state_avg_discount": "0.25667487684729064039",
+    "state_ppls_cnt": "406"
+  },
+  {
+    "c_state": "aa",
+    "state_avg_discount": "0.25655773420479302832",
+    "state_ppls_cnt": "459"
+  },
+  {
+    "c_state": "it",
+    "state_avg_discount": "0.25649006622516556291",
+    "state_ppls_cnt": "453"
+  },
+  {
+    "c_state": "es",
+    "state_avg_discount": "0.25637188208616780045",
+    "state_ppls_cnt": "441"
+  },
+  {
+    "c_state": "cb",
+    "state_avg_discount": "0.25633569739952718676",
+    "state_ppls_cnt": "423"
+  },
+  {
+    "c_state": "pd",
+    "state_avg_discount": "0.25631236442516268980",
+    "state_ppls_cnt": "461"
+  },
+  {
+    "c_state": "dv",
+    "state_avg_discount": "0.25627272727272727273",
+    "state_ppls_cnt": "440"
+  },
+  {
+    "c_state": "ph",
+    "state_avg_discount": "0.25606896551724137931",
+    "state_ppls_cnt": "435"
+  },
+  {
+    "c_state": "hh",
+    "state_avg_discount": "0.25594104308390022676",
+    "state_ppls_cnt": "441"
+  },
+  {
+    "c_state": "uc",
+    "state_avg_discount": "0.25593679458239277652",
+    "state_ppls_cnt": "443"
+  },
+  {
+    "c_state": "kb",
+    "state_avg_discount": "0.25592827004219409283",
+    "state_ppls_cnt": "474"
+  },
+  {
+    "c_state": "oq",
+    "state_avg_discount": "0.25592255125284738041",
+    "state_ppls_cnt": "439"
+  },
+  {
+    "c_state": "uu",
+    "state_avg_discount": "0.25589361702127659574",
+    "state_ppls_cnt": "470"
+  },
+  {
+    "c_state": "zw",
+    "state_avg_discount": "0.25587096774193548387",
+    "state_ppls_cnt": "465"
+  },
+  {
+    "c_state": "eu",
+    "state_avg_discount": "0.25578947368421052632",
+    "state_ppls_cnt": "475"
+  },
+  {
+    "c_state": "ma",
+    "state_avg_discount": "0.25572748267898383372",
+    "state_ppls_cnt": "433"
+  },
+  {
+    "c_state": "bl",
+    "state_avg_discount": "0.25570765661252900232",
+    "state_ppls_cnt": "431"
+  },
+  {
+    "c_state": "va",
+    "state_avg_discount": "0.25568848758465011287",
+    "state_ppls_cnt": "443"
+  },
+  {
+    "c_state": "gy",
+    "state_avg_discount": "0.25567757009345794393",
+    "state_ppls_cnt": "428"
+  },
+  {
+    "c_state": "du",
+    "state_avg_discount": "0.25554502369668246445",
+    "state_ppls_cnt": "422"
+  },
+  {
+    "c_state": "hr",
+    "state_avg_discount": "0.25548387096774193548",
+    "state_ppls_cnt": "434"
+  },
+  {
+    "c_state": "gg",
+    "state_avg_discount": "0.25538823529411764706",
+    "state_ppls_cnt": "425"
+  },
+  {
+    "c_state": "ro",
+    "state_avg_discount": "0.25537914691943127962",
+    "state_ppls_cnt": "422"
+  },
+  {
+    "c_state": "jq",
+    "state_avg_discount": "0.25530612244897959184",
+    "state_ppls_cnt": "441"
+  },
+  {
+    "c_state": "uk",
+    "state_avg_discount": "0.25530434782608695652",
+    "state_ppls_cnt": "460"
+  },
+  {
+    "c_state": "ga",
+    "state_avg_discount": "0.25518201284796573876",
+    "state_ppls_cnt": "467"
+  },
+  {
+    "c_state": "gt",
+    "state_avg_discount": "0.25517819706498951782",
+    "state_ppls_cnt": "477"
+  },
+  {
+    "c_state": "vp",
+    "state_avg_discount": "0.25517084282460136674",
+    "state_ppls_cnt": "439"
+  },
+  {
+    "c_state": "xl",
+    "state_avg_discount": "0.25511520737327188940",
+    "state_ppls_cnt": "434"
+  },
+  {
+    "c_state": "uy",
+    "state_avg_discount": "0.25507494646680942184",
+    "state_ppls_cnt": "467"
+  },
+  {
+    "c_state": "qj",
+    "state_avg_discount": "0.25504366812227074236",
+    "state_ppls_cnt": "458"
+  },
+  {
+    "c_state": "hn",
+    "state_avg_discount": "0.25492239467849223947",
+    "state_ppls_cnt": "451"
+  },
+  {
+    "c_state": "bt",
+    "state_avg_discount": "0.25491071428571428571",
+    "state_ppls_cnt": "448"
+  },
+  {
+    "c_state": "kh",
+    "state_avg_discount": "0.25487471526195899772",
+    "state_ppls_cnt": "439"
+  },
+  {
+    "c_state": "mx",
+    "state_avg_discount": "0.25485232067510548523",
+    "state_ppls_cnt": "474"
+  },
+  {
+    "c_state": "tq",
+    "state_avg_discount": "0.25484018264840182648",
+    "state_ppls_cnt": "438"
+  },
+  {
+    "c_state": "vx",
+    "state_avg_discount": "0.25483588621444201313",
+    "state_ppls_cnt": "457"
+  },
+  {
+    "c_state": "pg",
+    "state_avg_discount": "0.25480176211453744493",
+    "state_ppls_cnt": "454"
+  },
+  {
+    "c_state": "tu",
+    "state_avg_discount": "0.25477124183006535948",
+    "state_ppls_cnt": "459"
+  },
+  {
+    "c_state": "wa",
+    "state_avg_discount": "0.25475490196078431373",
+    "state_ppls_cnt": "408"
+  },
+  {
+    "c_state": "uz",
+    "state_avg_discount": "0.25475000000000000000",
+    "state_ppls_cnt": "440"
+  },
+  {
+    "c_state": "ib",
+    "state_avg_discount": "0.25472103004291845494",
+    "state_ppls_cnt": "466"
+  },
+  {
+    "c_state": "yp",
+    "state_avg_discount": "0.25461373390557939914",
+    "state_ppls_cnt": "466"
+  },
+  {
+    "c_state": "fi",
+    "state_avg_discount": "0.25461206896551724138",
+    "state_ppls_cnt": "464"
+  },
+  {
+    "c_state": "zm",
+    "state_avg_discount": "0.25457471264367816092",
+    "state_ppls_cnt": "435"
+  },
+  {
+    "c_state": "xn",
+    "state_avg_discount": "0.25456264775413711584",
+    "state_ppls_cnt": "423"
+  },
+  {
+    "c_state": "xm",
+    "state_avg_discount": "0.25454545454545454545",
+    "state_ppls_cnt": "429"
+  },
+  {
+    "c_state": "wd",
+    "state_avg_discount": "0.25454138702460850112",
+    "state_ppls_cnt": "447"
+  },
+  {
+    "c_state": "ql",
+    "state_avg_discount": "0.25453763440860215054",
+    "state_ppls_cnt": "465"
+  },
+  {
+    "c_state": "ag",
+    "state_avg_discount": "0.25451680672268907563",
+    "state_ppls_cnt": "476"
+  },
+  {
+    "c_state": "jk",
+    "state_avg_discount": "0.25448931116389548694",
+    "state_ppls_cnt": "421"
+  },
+  {
+    "c_state": "sx",
+    "state_avg_discount": "0.25439252336448598131",
+    "state_ppls_cnt": "428"
+  },
+  {
+    "c_state": "zo",
+    "state_avg_discount": "0.25438679245283018868",
+    "state_ppls_cnt": "424"
+  },
+  {
+    "c_state": "hu",
+    "state_avg_discount": "0.25438478747203579418",
+    "state_ppls_cnt": "447"
+  },
+  {
+    "c_state": "rf",
+    "state_avg_discount": "0.25436754176610978520",
+    "state_ppls_cnt": "419"
+  },
+  {
+    "c_state": "ey",
+    "state_avg_discount": "0.25435448577680525164",
+    "state_ppls_cnt": "457"
+  },
+  {
+    "c_state": "gu",
+    "state_avg_discount": "0.25431325301204819277",
+    "state_ppls_cnt": "415"
+  },
+  {
+    "c_state": "ly",
+    "state_avg_discount": "0.25430434782608695652",
+    "state_ppls_cnt": "460"
+  },
+  {
+    "c_state": "bi",
+    "state_avg_discount": "0.25426751592356687898",
+    "state_ppls_cnt": "471"
+  },
+  {
+    "c_state": "pp",
+    "state_avg_discount": "0.25425389755011135857",
+    "state_ppls_cnt": "449"
+  },
+  {
+    "c_state": "rg",
+    "state_avg_discount": "0.25423728813559322034",
+    "state_ppls_cnt": "472"
+  },
+  {
+    "c_state": "rr",
+    "state_avg_discount": "0.25418604651162790698",
+    "state_ppls_cnt": "430"
+  },
+  {
+    "c_state": "pt",
+    "state_avg_discount": "0.25415053763440860215",
+    "state_ppls_cnt": "465"
+  },
+  {
+    "c_state": "qz",
+    "state_avg_discount": "0.25411764705882352941",
+    "state_ppls_cnt": "459"
+  },
+  {
+    "c_state": "dn",
+    "state_avg_discount": "0.25407834101382488479",
+    "state_ppls_cnt": "434"
+  },
+  {
+    "c_state": "ho",
+    "state_avg_discount": "0.25393258426966292135",
+    "state_ppls_cnt": "445"
+  },
+  {
+    "c_state": "qf",
+    "state_avg_discount": "0.25391038696537678208",
+    "state_ppls_cnt": "491"
+  },
+  {
+    "c_state": "uh",
+    "state_avg_discount": "0.25391025641025641026",
+    "state_ppls_cnt": "468"
+  },
+  {
+    "c_state": "td",
+    "state_avg_discount": "0.25385542168674698795",
+    "state_ppls_cnt": "415"
+  },
+  {
+    "c_state": "xp",
+    "state_avg_discount": "0.25385300668151447661",
+    "state_ppls_cnt": "449"
+  },
+  {
+    "c_state": "ed",
+    "state_avg_discount": "0.25384615384615384615",
+    "state_ppls_cnt": "442"
+  },
+  {
+    "c_state": "mu",
+    "state_avg_discount": "0.25378619153674832962",
+    "state_ppls_cnt": "449"
+  },
+  {
+    "c_state": "mv",
+    "state_avg_discount": "0.25374449339207048458",
+    "state_ppls_cnt": "454"
+  },
+  {
+    "c_state": "gm",
+    "state_avg_discount": "0.25373809523809523810",
+    "state_ppls_cnt": "420"
+  },
+  {
+    "c_state": "mi",
+    "state_avg_discount": "0.25373601789709172260",
+    "state_ppls_cnt": "447"
+  },
+  {
+    "c_state": "dj",
+    "state_avg_discount": "0.25371882086167800454",
+    "state_ppls_cnt": "441"
+  },
+  {
+    "c_state": "dt",
+    "state_avg_discount": "0.25371882086167800454",
+    "state_ppls_cnt": "441"
+  },
+  {
+    "c_state": "rj",
+    "state_avg_discount": "0.25367483296213808463",
+    "state_ppls_cnt": "449"
+  },
+  {
+    "c_state": "ip",
+    "state_avg_discount": "0.25364253393665158371",
+    "state_ppls_cnt": "442"
+  },
+  {
+    "c_state": "cl",
+    "state_avg_discount": "0.25350490196078431373",
+    "state_ppls_cnt": "408"
+  },
+  {
+    "c_state": "at",
+    "state_avg_discount": "0.25349450549450549451",
+    "state_ppls_cnt": "455"
+  },
+  {
+    "c_state": "ri",
+    "state_avg_discount": "0.25347126436781609195",
+    "state_ppls_cnt": "435"
+  },
+  {
+    "c_state": "fq",
+    "state_avg_discount": "0.25346420323325635104",
+    "state_ppls_cnt": "433"
+  },
+  {
+    "c_state": "yk",
+    "state_avg_discount": "0.25341463414634146341",
+    "state_ppls_cnt": "451"
+  },
+  {
+    "c_state": "kl",
+    "state_avg_discount": "0.25340686274509803922",
+    "state_ppls_cnt": "408"
+  },
+  {
+    "c_state": "so",
+    "state_avg_discount": "0.25337690631808278867",
+    "state_ppls_cnt": "459"
+  },
+  {
+    "c_state": "zc",
+    "state_avg_discount": "0.25334841628959276018",
+    "state_ppls_cnt": "442"
+  },
+  {
+    "c_state": "mq",
+    "state_avg_discount": "0.25328859060402684564",
+    "state_ppls_cnt": "447"
+  },
+  {
+    "c_state": "cd",
+    "state_avg_discount": "0.25327510917030567686",
+    "state_ppls_cnt": "458"
+  },
+  {
+    "c_state": "oa",
+    "state_avg_discount": "0.25322939866369710468",
+    "state_ppls_cnt": "449"
+  },
+  {
+    "c_state": "vr",
+    "state_avg_discount": "0.25322072072072072072",
+    "state_ppls_cnt": "444"
+  },
+  {
+    "c_state": "zn",
+    "state_avg_discount": "0.25322033898305084746",
+    "state_ppls_cnt": "413"
+  },
+  {
+    "c_state": "jn",
+    "state_avg_discount": "0.25317307692307692308",
+    "state_ppls_cnt": "416"
+  },
+  {
+    "c_state": "xz",
+    "state_avg_discount": "0.25312765957446808511",
+    "state_ppls_cnt": "470"
+  },
+  {
+    "c_state": "wo",
+    "state_avg_discount": "0.25311594202898550725",
+    "state_ppls_cnt": "414"
+  },
+  {
+    "c_state": "lk",
+    "state_avg_discount": "0.25309890109890109890",
+    "state_ppls_cnt": "455"
+  },
+  {
+    "c_state": "rb",
+    "state_avg_discount": "0.25302832244008714597",
+    "state_ppls_cnt": "459"
+  },
+  {
+    "c_state": "fo",
+    "state_avg_discount": "0.25301932367149758454",
+    "state_ppls_cnt": "414"
+  },
+  {
+    "c_state": "vz",
+    "state_avg_discount": "0.25299319727891156463",
+    "state_ppls_cnt": "441"
+  },
+  {
+    "c_state": "zi",
+    "state_avg_discount": "0.25294811320754716981",
+    "state_ppls_cnt": "424"
+  },
+  {
+    "c_state": "cw",
+    "state_avg_discount": "0.25293706293706293706",
+    "state_ppls_cnt": "429"
+  },
+  {
+    "c_state": "qm",
+    "state_avg_discount": "0.25293706293706293706",
+    "state_ppls_cnt": "429"
+  },
+  {
+    "c_state": "ng",
+    "state_avg_discount": "0.25281323877068557920",
+    "state_ppls_cnt": "423"
+  },
+  {
+    "c_state": "nu",
+    "state_avg_discount": "0.25280660377358490566",
+    "state_ppls_cnt": "424"
+  },
+  {
+    "c_state": "pi",
+    "state_avg_discount": "0.25280397022332506203",
+    "state_ppls_cnt": "403"
+  },
+  {
+    "c_state": "nx",
+    "state_avg_discount": "0.25280087527352297593",
+    "state_ppls_cnt": "457"
+  },
+  {
+    "c_state": "xd",
+    "state_avg_discount": "0.25277310924369747899",
+    "state_ppls_cnt": "476"
+  },
+  {
+    "c_state": "jo",
+    "state_avg_discount": "0.25275000000000000000",
+    "state_ppls_cnt": "440"
+  },
+  {
+    "c_state": "qe",
+    "state_avg_discount": "0.25269662921348314607",
+    "state_ppls_cnt": "445"
+  },
+  {
+    "c_state": "xc",
+    "state_avg_discount": "0.25269585253456221198",
+    "state_ppls_cnt": "434"
+  },
+  {
+    "c_state": "qu",
+    "state_avg_discount": "0.25261954261954261954",
+    "state_ppls_cnt": "481"
+  },
+  {
+    "c_state": "sa",
+    "state_avg_discount": "0.25260245901639344262",
+    "state_ppls_cnt": "488"
+  },
+  {
+    "c_state": "jh",
+    "state_avg_discount": "0.25259259259259259259",
+    "state_ppls_cnt": "459"
+  },
+  {
+    "c_state": "po",
+    "state_avg_discount": "0.25259174311926605505",
+    "state_ppls_cnt": "436"
+  },
+  {
+    "c_state": "ej",
+    "state_avg_discount": "0.25256818181818181818",
+    "state_ppls_cnt": "440"
+  },
+  {
+    "c_state": "fw",
+    "state_avg_discount": "0.25254859611231101512",
+    "state_ppls_cnt": "463"
+  },
+  {
+    "c_state": "ku",
+    "state_avg_discount": "0.25252314814814814815",
+    "state_ppls_cnt": "432"
+  },
+  {
+    "c_state": "cg",
+    "state_avg_discount": "0.25251295336787564767",
+    "state_ppls_cnt": "386"
+  },
+  {
+    "c_state": "nn",
+    "state_avg_discount": "0.25251054852320675105",
+    "state_ppls_cnt": "474"
+  },
+  {
+    "c_state": "xr",
+    "state_avg_discount": "0.25246478873239436620",
+    "state_ppls_cnt": "426"
+  },
+  {
+    "c_state": "ds",
+    "state_avg_discount": "0.25244332493702770781",
+    "state_ppls_cnt": "397"
+  },
+  {
+    "c_state": "ur",
+    "state_avg_discount": "0.25243243243243243243",
+    "state_ppls_cnt": "481"
+  },
+  {
+    "c_state": "dc",
+    "state_avg_discount": "0.25240740740740740741",
+    "state_ppls_cnt": "432"
+  },
+  {
+    "c_state": "en",
+    "state_avg_discount": "0.25237991266375545852",
+    "state_ppls_cnt": "458"
+  },
+  {
+    "c_state": "mb",
+    "state_avg_discount": "0.25236203090507726269",
+    "state_ppls_cnt": "453"
+  },
+  {
+    "c_state": "kw",
+    "state_avg_discount": "0.25233490566037735849",
+    "state_ppls_cnt": "424"
+  },
+  {
+    "c_state": "xb",
+    "state_avg_discount": "0.25232456140350877193",
+    "state_ppls_cnt": "456"
+  },
+  {
+    "c_state": "nh",
+    "state_avg_discount": "0.25229857819905213270",
+    "state_ppls_cnt": "422"
+  },
+  {
+    "c_state": "zs",
+    "state_avg_discount": "0.25229074889867841410",
+    "state_ppls_cnt": "454"
+  },
+  {
+    "c_state": "fl",
+    "state_avg_discount": "0.25227477477477477477",
+    "state_ppls_cnt": "444"
+  },
+  {
+    "c_state": "ci",
+    "state_avg_discount": "0.25225446428571428571",
+    "state_ppls_cnt": "448"
+  },
+  {
+    "c_state": "ep",
+    "state_avg_discount": "0.25224669603524229075",
+    "state_ppls_cnt": "454"
+  },
+  {
+    "c_state": "kc",
+    "state_avg_discount": "0.25224101479915433404",
+    "state_ppls_cnt": "473"
+  },
+  {
+    "c_state": "cj",
+    "state_avg_discount": "0.25223587223587223587",
+    "state_ppls_cnt": "407"
+  },
+  {
+    "c_state": "ij",
+    "state_avg_discount": "0.25217171717171717172",
+    "state_ppls_cnt": "396"
+  },
+  {
+    "c_state": "nd",
+    "state_avg_discount": "0.25216216216216216216",
+    "state_ppls_cnt": "481"
+  },
+  {
+    "c_state": "nz",
+    "state_avg_discount": "0.25211538461538461538",
+    "state_ppls_cnt": "468"
+  },
+  {
+    "c_state": "vg",
+    "state_avg_discount": "0.25211494252873563218",
+    "state_ppls_cnt": "435"
+  },
+  {
+    "c_state": "yn",
+    "state_avg_discount": "0.25207852193995381062",
+    "state_ppls_cnt": "433"
+  },
+  {
+    "c_state": "ji",
+    "state_avg_discount": "0.25206451612903225806",
+    "state_ppls_cnt": "465"
+  },
+  {
+    "c_state": "yw",
+    "state_avg_discount": "0.25206073752711496746",
+    "state_ppls_cnt": "461"
+  },
+  {
+    "c_state": "cx",
+    "state_avg_discount": "0.25205607476635514019",
+    "state_ppls_cnt": "428"
+  },
+  {
+    "c_state": "gi",
+    "state_avg_discount": "0.25193333333333333333",
+    "state_ppls_cnt": "450"
+  },
+  {
+    "c_state": "cy",
+    "state_avg_discount": "0.25191588785046728972",
+    "state_ppls_cnt": "428"
+  },
+  {
+    "c_state": "br",
+    "state_avg_discount": "0.25182819383259911894",
+    "state_ppls_cnt": "454"
+  },
+  {
+    "c_state": "gk",
+    "state_avg_discount": "0.25182212581344902386",
+    "state_ppls_cnt": "461"
+  },
+  {
+    "c_state": "pc",
+    "state_avg_discount": "0.25178494623655913978",
+    "state_ppls_cnt": "465"
+  },
+  {
+    "c_state": "fj",
+    "state_avg_discount": "0.25174208144796380090",
+    "state_ppls_cnt": "442"
+  },
+  {
+    "c_state": "kf",
+    "state_avg_discount": "0.25171306209850107066",
+    "state_ppls_cnt": "467"
+  },
+  {
+    "c_state": "ca",
+    "state_avg_discount": "0.25167441860465116279",
+    "state_ppls_cnt": "430"
+  },
+  {
+    "c_state": "hi",
+    "state_avg_discount": "0.25165957446808510638",
+    "state_ppls_cnt": "470"
+  },
+  {
+    "c_state": "ge",
+    "state_avg_discount": "0.25163135593220338983",
+    "state_ppls_cnt": "472"
+  },
+  {
+    "c_state": "kr",
+    "state_avg_discount": "0.25161369193154034230",
+    "state_ppls_cnt": "409"
+  },
+  {
+    "c_state": "ln",
+    "state_avg_discount": "0.25161363636363636364",
+    "state_ppls_cnt": "440"
+  },
+  {
+    "c_state": "iq",
+    "state_avg_discount": "0.25161165048543689320",
+    "state_ppls_cnt": "515"
+  },
+  {
+    "c_state": "gb",
+    "state_avg_discount": "0.25152173913043478261",
+    "state_ppls_cnt": "460"
+  },
+  {
+    "c_state": "by",
+    "state_avg_discount": "0.25148148148148148148",
+    "state_ppls_cnt": "432"
+  },
+  {
+    "c_state": "dd",
+    "state_avg_discount": "0.25144208037825059102",
+    "state_ppls_cnt": "423"
+  },
+  {
+    "c_state": "kj",
+    "state_avg_discount": "0.25143835616438356164",
+    "state_ppls_cnt": "438"
+  },
+  {
+    "c_state": "bd",
+    "state_avg_discount": "0.25138461538461538462",
+    "state_ppls_cnt": "455"
+  },
+  {
+    "c_state": "dz",
+    "state_avg_discount": "0.25137529137529137529",
+    "state_ppls_cnt": "429"
+  },
+  {
+    "c_state": "nj",
+    "state_avg_discount": "0.25137209302325581395",
+    "state_ppls_cnt": "430"
+  },
+  {
+    "c_state": "qg",
+    "state_avg_discount": "0.25137130801687763713",
+    "state_ppls_cnt": "474"
+  },
+  {
+    "c_state": "me",
+    "state_avg_discount": "0.25136363636363636364",
+    "state_ppls_cnt": "440"
+  },
+  {
+    "c_state": "yo",
+    "state_avg_discount": "0.25133971291866028708",
+    "state_ppls_cnt": "418"
+  },
+  {
+    "c_state": "jc",
+    "state_avg_discount": "0.25132530120481927711",
+    "state_ppls_cnt": "415"
+  },
+  {
+    "c_state": "dg",
+    "state_avg_discount": "0.25131578947368421053",
+    "state_ppls_cnt": "418"
+  },
+  {
+    "c_state": "yj",
+    "state_avg_discount": "0.25130325814536340852",
+    "state_ppls_cnt": "399"
+  },
+  {
+    "c_state": "xe",
+    "state_avg_discount": "0.25129464285714285714",
+    "state_ppls_cnt": "448"
+  },
+  {
+    "c_state": "hj",
+    "state_avg_discount": "0.25128089887640449438",
+    "state_ppls_cnt": "445"
+  },
+  {
+    "c_state": "sd",
+    "state_avg_discount": "0.25126463700234192037",
+    "state_ppls_cnt": "427"
+  },
+  {
+    "c_state": "qc",
+    "state_avg_discount": "0.25120171673819742489",
+    "state_ppls_cnt": "466"
+  },
+  {
+    "c_state": "lz",
+    "state_avg_discount": "0.25119305856832971800",
+    "state_ppls_cnt": "461"
+  },
+  {
+    "c_state": "vv",
+    "state_avg_discount": "0.25105855855855855856",
+    "state_ppls_cnt": "444"
+  },
+  {
+    "c_state": "yl",
+    "state_avg_discount": "0.25105769230769230769",
+    "state_ppls_cnt": "416"
+  },
+  {
+    "c_state": "lq",
+    "state_avg_discount": "0.25105633802816901408",
+    "state_ppls_cnt": "426"
+  },
+  {
+    "c_state": "ps",
+    "state_avg_discount": "0.25101910828025477707",
+    "state_ppls_cnt": "471"
+  },
+  {
+    "c_state": "lx",
+    "state_avg_discount": "0.25100000000000000000",
+    "state_ppls_cnt": "430"
+  },
+  {
+    "c_state": "id",
+    "state_avg_discount": "0.25098398169336384439",
+    "state_ppls_cnt": "437"
+  },
+  {
+    "c_state": "xi",
+    "state_avg_discount": "0.25092274678111587983",
+    "state_ppls_cnt": "466"
+  },
+  {
+    "c_state": "sk",
+    "state_avg_discount": "0.25091127098321342926",
+    "state_ppls_cnt": "417"
+  },
+  {
+    "c_state": "ya",
+    "state_avg_discount": "0.25087962962962962963",
+    "state_ppls_cnt": "432"
+  },
+  {
+    "c_state": "kv",
+    "state_avg_discount": "0.25087837837837837838",
+    "state_ppls_cnt": "444"
+  },
+  {
+    "c_state": "tc",
+    "state_avg_discount": "0.25082352941176470588",
+    "state_ppls_cnt": "425"
+  },
+  {
+    "c_state": "pk",
+    "state_avg_discount": "0.25079404466501240695",
+    "state_ppls_cnt": "403"
+  },
+  {
+    "c_state": "yu",
+    "state_avg_discount": "0.25078828828828828829",
+    "state_ppls_cnt": "444"
+  },
+  {
+    "c_state": "ao",
+    "state_avg_discount": "0.25071910112359550562",
+    "state_ppls_cnt": "445"
+  },
+  {
+    "c_state": "nc",
+    "state_avg_discount": "0.25067720090293453725",
+    "state_ppls_cnt": "443"
+  },
+  {
+    "c_state": "hv",
+    "state_avg_discount": "0.25064732142857142857",
+    "state_ppls_cnt": "448"
+  },
+  {
+    "c_state": "ev",
+    "state_avg_discount": "0.25059770114942528736",
+    "state_ppls_cnt": "435"
+  },
+  {
+    "c_state": "er",
+    "state_avg_discount": "0.25056410256410256410",
+    "state_ppls_cnt": "390"
+  },
+  {
+    "c_state": "mm",
+    "state_avg_discount": "0.25053613053613053613",
+    "state_ppls_cnt": "429"
+  },
+  {
+    "c_state": "vo",
+    "state_avg_discount": "0.25052391799544419134",
+    "state_ppls_cnt": "439"
+  },
+  {
+    "c_state": "cu",
+    "state_avg_discount": "0.25050228310502283105",
+    "state_ppls_cnt": "438"
+  },
+  {
+    "c_state": "xf",
+    "state_avg_discount": "0.25049140049140049140",
+    "state_ppls_cnt": "407"
+  },
+  {
+    "c_state": "xh",
+    "state_avg_discount": "0.25048837209302325581",
+    "state_ppls_cnt": "430"
+  },
+  {
+    "c_state": "rw",
+    "state_avg_discount": "0.25048000000000000000",
+    "state_ppls_cnt": "500"
+  },
+  {
+    "c_state": "dx",
+    "state_avg_discount": "0.25046341463414634146",
+    "state_ppls_cnt": "410"
+  },
+  {
+    "c_state": "za",
+    "state_avg_discount": "0.25042696629213483146",
+    "state_ppls_cnt": "445"
+  },
+  {
+    "c_state": "lp",
+    "state_avg_discount": "0.25039443155452436195",
+    "state_ppls_cnt": "431"
+  },
+  {
+    "c_state": "xq",
+    "state_avg_discount": "0.25037861915367483296",
+    "state_ppls_cnt": "449"
+  },
+  {
+    "c_state": "uw",
+    "state_avg_discount": "0.25036199095022624434",
+    "state_ppls_cnt": "442"
+  },
+  {
+    "c_state": "co",
+    "state_avg_discount": "0.25034858387799564270",
+    "state_ppls_cnt": "459"
+  },
+  {
+    "c_state": "fa",
+    "state_avg_discount": "0.25034562211981566820",
+    "state_ppls_cnt": "434"
+  },
+  {
+    "c_state": "gh",
+    "state_avg_discount": "0.25031400966183574879",
+    "state_ppls_cnt": "414"
+  },
+  {
+    "c_state": "xw",
+    "state_avg_discount": "0.25030501089324618736",
+    "state_ppls_cnt": "459"
+  },
+  {
+    "c_state": "js",
+    "state_avg_discount": "0.25029680365296803653",
+    "state_ppls_cnt": "438"
+  },
+  {
+    "c_state": "hf",
+    "state_avg_discount": "0.25029556650246305419",
+    "state_ppls_cnt": "406"
+  },
+  {
+    "c_state": "zg",
+    "state_avg_discount": "0.25029350104821802935",
+    "state_ppls_cnt": "477"
+  },
+  {
+    "c_state": "cv",
+    "state_avg_discount": "0.25028634361233480176",
+    "state_ppls_cnt": "454"
+  },
+  {
+    "c_state": "tj",
+    "state_avg_discount": "0.25028169014084507042",
+    "state_ppls_cnt": "426"
+  },
+  {
+    "c_state": "wp",
+    "state_avg_discount": "0.25027956989247311828",
+    "state_ppls_cnt": "465"
+  },
+  {
+    "c_state": "jm",
+    "state_avg_discount": "0.25024444444444444444",
+    "state_ppls_cnt": "450"
+  },
+  {
+    "c_state": "bw",
+    "state_avg_discount": "0.25017130620985010707",
+    "state_ppls_cnt": "467"
+  },
+  {
+    "c_state": "eg",
+    "state_avg_discount": "0.25007159904534606205",
+    "state_ppls_cnt": "419"
+  },
+  {
+    "c_state": "is",
+    "state_avg_discount": "0.25007009345794392523",
+    "state_ppls_cnt": "428"
+  },
+  {
+    "c_state": "lg",
+    "state_avg_discount": "0.25006756756756756757",
+    "state_ppls_cnt": "444"
+  },
+  {
+    "c_state": "rx",
+    "state_avg_discount": "0.25004566210045662100",
+    "state_ppls_cnt": "438"
+  },
+  {
+    "c_state": "pz",
+    "state_avg_discount": "0.25000000000000000000",
+    "state_ppls_cnt": "464"
+  }
+]

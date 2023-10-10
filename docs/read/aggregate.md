@@ -26,3 +26,5 @@ npm run test-aggregate-customer [Question No.]
 7. Add up all customer year-to-date payments `sum_state_ytd_payment`, grouping by state.
 8. Report all states in which the total customer year-to-date payment `sum_state_ytd_payment` is greater than $360,000.
 9. Summarize districts' total of customer year-to-date payment `sum_district_ytd_payment`.
+10. Report the only state with more than 450 consumers' total year-to-date payments for each state. **Sort by state's total year-to-date payment in an increasing order.**
+11. Indicate how many consumers there are in each state where the average customer discount is no less than 25%. **Sort in decreasing order by average customer discount.**
