@@ -33,5 +33,5 @@ describe('Join query', () => {
   test.each<[string, SolutionFilePath, ReturnType<QueryGenerator>]>([
     [`Q2`, 'join/query_results-2023-10-06_30822', q2],
     [`Q3`, 'join/query_results-2023-10-08_45117', q3],
-  ])('Strict order %s - %s', orderedRowTest(clientPtr))
+  ])('Sort strictly %s - %s', orderedRowTest(clientPtr))
 })

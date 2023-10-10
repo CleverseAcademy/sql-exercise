@@ -64,5 +64,5 @@ describe('District SFW query', () => {
       'sfw/query_results-2023-10-04_34751',
       q6,
     ],
-  ])('Strict order %s - %s', orderedRowTest(clientPtr))
+  ])('Sort strictly %s - %s', orderedRowTest(clientPtr))
 })

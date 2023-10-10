@@ -116,5 +116,5 @@ describe('Customer SFW query', () => {
       'sfw/query_results-2023-10-04_33455',
       q15,
     ],
-  ])('Strict order %s - %s', orderedRowTest(clientPtr))
+  ])('Sort strictly %s - %s', orderedRowTest(clientPtr))
 })

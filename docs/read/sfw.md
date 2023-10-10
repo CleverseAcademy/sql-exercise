@@ -1,4 +1,4 @@
-# SFW exercises
+# SELECT *field(s)* FROM *table(s)* WHERE *predicate(s)*
 
 ## District
 
