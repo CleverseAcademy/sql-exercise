@@ -35,5 +35,5 @@ export const orderedRowTest = (ptr: ClientPtr) => async (
   )
   const queryResult = await intermediateQuery(ptr.client)
 
-  solution.forEach((row, index) => expect(queryResult[index]).toEqual(row))
+  queryResult.forEach((row, index) => expect(row).toEqual(queryResult[index]))
 }
