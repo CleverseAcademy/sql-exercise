@@ -10,6 +10,8 @@
 npm run test-aggregate-customer [Question No.]
 ```
 
+### Questions
+
 1. Calculate the average year-to-date payment `average_ytd_payment` of every customer.
 2. Calculate the average customer year-to-date payment `state_avg_ytd` for each state.
 3. Calculate the maximum of the family discount, `max_family_discount,` where their last name begins with `CALLY` or `ANTI`.
