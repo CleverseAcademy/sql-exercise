@@ -15,6 +15,9 @@ export const q4 = q(`
 export const q5 = q(`
 `)
 
+export const q6 = q(`
+`)
+
 export const q7_1 = q(`
 `)
 
