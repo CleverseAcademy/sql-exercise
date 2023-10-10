@@ -41,7 +41,12 @@ describe('sol-path', () => {
     'join/query_results-2023-10-06_30822',
     'join/query_results-2023-10-08_45117',
     'join/query_results-2023-10-08_65712',
-  ])('Preflight check - %s', (filename) => {
+    'join/query_results-2023-10-10_40855',
+    'join/query_results-2023-10-10_42903',
+    'join/query_results-2023-10-10_72005',
+    'join/query_results-2023-10-10_80606',
+    'join/query_results-2023-10-10_222417',
+  ])('Preflight check - cases.test/%s', (filename) => {
     expect(openSync(toSystemPath(filename), 'r')).toEqual(expect.any(Number))
   })
 })

@@ -24,7 +24,7 @@ Choose it wisely. 🖊️
 ### SELECT - C*R*UD
 1. [SFW - SELECT *field(s)* FROM *table(s)* WHERE *predicate(s)*](./read/sfw.md) 
 2. [Aggregate](./read/aggregate.md)
-3. [JOIN - TBD](./read/join.md)
+3. [JOIN](./read/join.md)
 
 ### INSERT - *C*RUD
 
