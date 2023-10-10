@@ -39,7 +39,7 @@ afterAll((done) => {
 describe('Customer Aggregate query', () => {
   test.each<[string, SolutionFilePath, ReturnType<QueryGenerator>]>([
     [
-      `Q1: Calculate the average year-to-date payment of every customer.`,
+      `Q1: Calculate the average year-to-date payment of every customer`,
       'aggregate/query_results-2023-10-04_45202',
       q1,
     ],
@@ -54,12 +54,12 @@ describe('Customer Aggregate query', () => {
       q3,
     ],
     [
-      `Q4: For families whose last name starts with OUGHT or EINGEIN, determine the family minimum balance.`,
+      `Q4: For families whose last name starts with OUGHT or EINGEIN, determine the family minimum balance`,
       'aggregate/query_results-2023-10-04_45923',
       q4,
     ],
     [
-      `Q5: To determine which consumers have good and bad credit, count a number of them.`,
+      `Q5: To determine which consumers have good and bad credit, count a number of them`,
       'aggregate/query_results-2023-10-04_45941',
       q5,
     ],
