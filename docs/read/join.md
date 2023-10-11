@@ -34,7 +34,7 @@ npm run test-join [Question No.]
 7. Supposedly, we're going to shut down warehouses because their tax is higher than 15% as a reason for cost optimization.
 	1. Retrieve items' name, price, and combined going-to-be-closed stock quantity, `combined_quantity`, whose price is between 80 and 90 and overall stock quantity while counting only the going-to-be-closed warehouses is less than 100.
 	2. Assume that the cost of stock transit is 9% of the total item price within the warehouse's stocks. Calculate the transit cost, cluster by warehouses.
-    > Hint: Read the 11<sup>th</sup> page of the [summarized TPC-C specification](/tpcc-schema-and-transaction.pdf) to get some idea of how the item's total price is calculated.
+    > Hint: Read the 11<sup>th</sup> page of the [summarized TPC-C specification](https://github.com/CleverseAcademy/sql-exercise/blob/main/tpcc-schema-and-transaction.pdf) to get some idea of how the item's total price is calculated.
 	3. Write a query that reports if it's possible to move items from the above-mentioned warehouses to the rest, each row distinct by item id, consisting of:
 		- *i_id*
 		- *i_name*
