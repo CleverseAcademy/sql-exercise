@@ -46,6 +46,7 @@ describe('sol-path', () => {
     'join/query_results-2023-10-10_72005',
     'join/query_results-2023-10-10_80606',
     'join/query_results-2023-10-10_222417',
+    'demo/query_results-2023-10-12_121838',
   ])('Preflight check - cases.test/%s', (filename) => {
     expect(openSync(toSystemPath(filename), 'r')).toEqual(expect.any(Number))
   })

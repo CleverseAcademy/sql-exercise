@@ -7,12 +7,12 @@
     "doc": "docs"
   },
   "scripts": {
-    "start": "tsc && node dist/index.js",
     "test": "jest",
     "test-sfw-district": "jest .*sfw/district.test.ts --testNamePattern",
     "test-sfw-customer": "jest .*sfw/customer.test.ts --testNamePattern",
     "test-aggregate-customer": "jest .*aggregate/customer.test.ts --testNamePattern",
-    "test-join": "jest .*join/.* --testNamePattern"
+    "test-join": "jest .*join/.* --testNamePattern",
+    "test-demo": "jest .*demo/.* --testNamePattern"
   },
   "repository": {
     "type": "git",

@@ -7,7 +7,7 @@ type TupleOfLength<N, T extends any[] = []> = T["length"] extends N
 
 type NumberRange<L, H> = Exclude<TupleOfLength<H>, TupleOfLength<L>> | H
 
-type PathName = 'sfw' | 'join' | 'aggregate'
+type PathName = 'sfw' | 'join' | 'aggregate' | 'demo'
 
 type Years = `20${NumberRange<23, 50>}`
 
