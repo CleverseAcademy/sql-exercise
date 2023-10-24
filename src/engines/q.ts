@@ -1,11 +1,15 @@
-import { Client } from 'pg'
-import SQLReturnRowInterface from '../schemas/SQLRowInterface.type'
+import { Client } from "pg";
+import SQLReturnRowInterface from "../schemas/SQLRowInterface.type";
 
-export type QueryGenerator = <T extends SQLReturnRowInterface>(
+export type QueryGenerator = <
+  T extends SQLReturnRowInterface,
+  I extends any[] = any[],
+>(
   stmt: string,
-) => (client: Client) => Promise<T[]>
+  values?: I,
+) => (client: Client) => Promise<T[]>;
 
-const q: QueryGenerator = (stmt) => (client) =>
-  client.query(stmt).then((r) => r.rows)
+const q: QueryGenerator = (stmt, values) => (client) =>
+  client.query(stmt, values).then((r) => r.rows);
 
-export default q
+export default q;

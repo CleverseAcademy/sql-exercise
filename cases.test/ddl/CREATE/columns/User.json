@@ -1,0 +1,23 @@
+[
+  {
+    "table_name": "User",
+    "column_name": "id",
+    "is_nullable": "NO",
+    "data_type": "uuid",
+    "character_octet_length": null
+  },
+  {
+    "table_name": "User",
+    "column_name": "username",
+    "is_nullable": "NO",
+    "data_type": "text",
+    "character_octet_length": 1073741824
+  },
+  {
+    "table_name": "User",
+    "column_name": "password",
+    "is_nullable": "NO",
+    "data_type": "text",
+    "character_octet_length": 1073741824
+  }
+]

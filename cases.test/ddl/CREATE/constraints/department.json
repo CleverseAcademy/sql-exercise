@@ -1,0 +1,14 @@
+[
+  {
+    "table_schema": "public",
+    "table_name": "department",
+    "constraint_type": "PRIMARY KEY",
+    "column_name": "id"
+  },
+  {
+    "table_schema": "public",
+    "table_name": "department",
+    "constraint_type": "CHECK",
+    "column_name": null
+  }
+]

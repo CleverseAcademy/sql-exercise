@@ -1,4 +1,4 @@
-import Schema from './schema.type'
+import Schema from "./schema.type";
 
 export default interface Dto
-  extends Pick<Schema, 'c_first' | 'c_last' | 'c_phone'> {}
+  extends Pick<Schema, "c_first" | "c_last" | "c_phone"> {}

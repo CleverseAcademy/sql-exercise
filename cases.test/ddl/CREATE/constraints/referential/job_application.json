@@ -1,0 +1,32 @@
+[
+  {
+    "from_schema": "public",
+    "from_table": "job_application",
+    "from_column": "applicant_id",
+    "to_schema": "public",
+    "update_rule": "NO ACTION",
+    "delete_rule": "CASCADE",
+    "to_table": "applicant",
+    "to_column": "id"
+  },
+  {
+    "from_schema": "public",
+    "from_table": "job_application",
+    "from_column": "job_avail_id",
+    "to_schema": "public",
+    "update_rule": "NO ACTION",
+    "delete_rule": "CASCADE",
+    "to_table": "job_availability",
+    "to_column": "id"
+  },
+  {
+    "from_schema": "public",
+    "from_table": "job_application",
+    "from_column": "job_id",
+    "to_schema": "public",
+    "update_rule": "NO ACTION",
+    "delete_rule": "CASCADE",
+    "to_table": "job",
+    "to_column": "id"
+  }
+]

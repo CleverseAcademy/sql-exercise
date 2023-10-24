@@ -1,7 +1,7 @@
-import { describe, expect, test } from '@jest/globals'
-import isMatchFieldsExpectation from '../../utils/field'
+import { describe, expect, test } from "@jest/globals";
+import isMatchFieldsExpectation from "../../utils/field";
 
-describe('Utility test - isMatchFieldsExpectation', () => {
+describe("Utility test - isMatchFieldsExpectation", () => {
   test.each([
     [
       [
@@ -44,7 +44,7 @@ describe('Utility test - isMatchFieldsExpectation', () => {
       { a: 2, b: 1 },
       true,
     ],
-  ])('matching keys of Array: %j v. Object: %j', (arr, obj, expected) => {
-    expect(isMatchFieldsExpectation(arr, obj)).toBe(expected)
-  })
-})
+  ])("matching keys of Array: %j v. Object: %j", (arr, obj, expected) => {
+    expect(isMatchFieldsExpectation(arr, obj)).toBe(expected);
+  });
+});

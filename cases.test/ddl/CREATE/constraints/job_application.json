@@ -1,0 +1,62 @@
+[
+  {
+    "table_schema": "public",
+    "table_name": "job_application",
+    "constraint_type": "PRIMARY KEY",
+    "column_name": "applicant_id"
+  },
+  {
+    "table_schema": "public",
+    "table_name": "job_application",
+    "constraint_type": "PRIMARY KEY",
+    "column_name": "job_id"
+  },
+  {
+    "table_schema": "public",
+    "table_name": "job_application",
+    "constraint_type": "PRIMARY KEY",
+    "column_name": "job_avail_id"
+  },
+  {
+    "table_schema": "public",
+    "table_name": "job_application",
+    "constraint_type": "FOREIGN KEY",
+    "column_name": "applicant_id"
+  },
+  {
+    "table_schema": "public",
+    "table_name": "job_application",
+    "constraint_type": "FOREIGN KEY",
+    "column_name": "job_id"
+  },
+  {
+    "table_schema": "public",
+    "table_name": "job_application",
+    "constraint_type": "FOREIGN KEY",
+    "column_name": "job_avail_id"
+  },
+  {
+    "table_schema": "public",
+    "table_name": "job_application",
+    "constraint_type": "CHECK",
+    "column_name": null
+  },
+  {
+    "table_schema": "public",
+    "table_name": "job_application",
+    "constraint_type": "CHECK",
+    "column_name": null
+  },
+  {
+    "table_schema": "public",
+    "table_name": "job_application",
+    "constraint_type": "CHECK",
+    "column_name": null
+  },
+  {
+    "table_schema": "public",
+    "table_name": "job_application",
+    "constraint_type": "CHECK",
+    "column_name": null
+  }
+]

@@ -1,4 +1,4 @@
-import SQLReturnRowInterface from '../schemas/SQLRowInterface.type'
+import SQLReturnRowInterface from "../schemas/SQLRowInterface.type";
 
 const isMatchFieldsExpectation = <T extends SQLReturnRowInterface>(
   actual: T[],
@@ -9,6 +9,6 @@ const isMatchFieldsExpectation = <T extends SQLReturnRowInterface>(
   ) &&
   actual.every((obj) =>
     Object.keys(obj).every((key) => expected[key] !== undefined),
-  )
+  );
 
-export default isMatchFieldsExpectation
+export default isMatchFieldsExpectation;

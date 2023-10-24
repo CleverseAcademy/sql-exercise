@@ -1,0 +1,12 @@
+[
+  {
+    "from_schema": "public",
+    "from_table": "Todo",
+    "from_column": "ownerId",
+    "to_schema": "public",
+    "update_rule": "CASCADE",
+    "delete_rule": "CASCADE",
+    "to_table": "User",
+    "to_column": "id"
+  }
+]

@@ -1,12 +1,13 @@
-# SELECT *field(s)* FROM *table(s)* WHERE *predicate(s)*
+# SELECT _field(s)_ FROM _table(s)_ WHERE _predicate(s)_
 
 ## District
 
 **Worksheet:** [sfw/district.ts](/src/sfw/district.ts)
 
 **Verification command:**
+
 ```sh
-npm run test-sfw-district [Question No.]
+npm run dml-test-sfw-district [Question No.]
 ```
 
 ### Questions
@@ -24,8 +25,9 @@ npm run test-sfw-district [Question No.]
 **Worksheet:** [sfw/customer.ts](/src/sfw/customer.ts)
 
 **Verification command:**
+
 ```sh
-npm run test-sfw-customer [Question No.]
+npm run dml-test-sfw-customer [Question No.]
 ```
 
 ### Questions
@@ -46,6 +48,7 @@ npm run test-sfw-customer [Question No.]
 14. Retrieve every customer's first and last name, state, phone, credit, registration timestamp, and balance who has more than $100,000 and has been registered as a customer after Sunday, September 24, 2023, 09:20:00 GMT. **Sort by registration timestamp first; if two customers have been registered at the same time, then sort by their balance from largest to smallest.**
 
     > Tips: Use the TO_CHAR function to convert the timestamp type to the serializable text type as follows:
+    >
     > ```sql
     > TO_CHAR(input_col, 'YYYY-MM-DD"T"HH24:MI:SS"Z"') as alias_col
     > ```

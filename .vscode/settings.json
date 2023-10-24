@@ -6,6 +6,7 @@
     "aggregate",
     "join",
     "preflight",
-    "demo"
+    "demo",
+    "ddl"
   ]
 }

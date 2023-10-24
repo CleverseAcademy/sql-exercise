@@ -1,24 +1,15 @@
 import { join } from "path";
+import { DDLCommand } from "../schemas/ddl/enforce.type";
+import { SolutionFilePath as DDLSolutionFilePath } from "./types/ddl-path.type";
+import { SolutionFilePath as DMLSolutionFilePath } from "./types/dml-path.type";
 
-// https://github.com/type-challenges/type-challenges/issues/9988
-type TupleOfLength<N, T extends any[] = []> = T["length"] extends N
-  ? T[number]
-  : TupleOfLength<N, [...T, T["length"]]>
+type SolutionFilePathTypeParam = DDLCommand | "DML";
+export type SolutionFilePath<
+  T extends SolutionFilePathTypeParam = "DML" | "CREATE" | "ALTER",
+> = T extends DDLCommand ? DDLSolutionFilePath<T> : DMLSolutionFilePath;
 
-type NumberRange<L, H> = Exclude<TupleOfLength<H>, TupleOfLength<L>> | H
+const toSystemPath = <T extends SolutionFilePathTypeParam>(
+  solPath: SolutionFilePath<T>
+): string => join(__dirname, `../../cases.test/${solPath}.json`);
 
-type PathName = 'sfw' | 'join' | 'aggregate' | 'demo'
-
-type Years = `20${NumberRange<23, 50>}`
-
-type Months = `0${NumberRange<1, 9>}` | `${NumberRange<10, 12>}`
-
-type Dates = `0${NumberRange<1, 9>}` | `${NumberRange<10, 31>}`
-
-type SolutionFilename = `query_results-${Years}-${Months}-${Dates}_${number}`
-
-export type SolutionFilePath = `${PathName}/${SolutionFilename}`
-
-const toSystemPath = (solPath: SolutionFilePath): string => join(__dirname, `../../cases.test/${solPath}.json`)
-
-export default toSystemPath
+export default toSystemPath;

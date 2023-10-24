@@ -1,3 +1,3 @@
-import q from '../engines/q'
+import q from "../engines/q";
 
-export const q0 = q(`SELECT 'demo-placeholder' as demo`)
+export const q0 = q(`SELECT 'demo-placeholder' as demo`);

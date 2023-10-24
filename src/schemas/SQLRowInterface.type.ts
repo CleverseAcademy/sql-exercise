@@ -1,2 +1,2 @@
-type SQLReturnRowInterface = Record<string, unknown>
-export default SQLReturnRowInterface
+type SQLReturnRowInterface = Record<string, unknown>;
+export default SQLReturnRowInterface;

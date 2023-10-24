@@ -1,0 +1,32 @@
+[
+  {
+    "table_schema": "public",
+    "table_name": "User",
+    "constraint_type": "PRIMARY KEY",
+    "column_name": "id"
+  },
+  {
+    "table_schema": "public",
+    "table_name": "User",
+    "constraint_type": "UNIQUE",
+    "column_name": "username"
+  },
+  {
+    "table_schema": "public",
+    "table_name": "User",
+    "constraint_type": "CHECK",
+    "column_name": null
+  },
+  {
+    "table_schema": "public",
+    "table_name": "User",
+    "constraint_type": "CHECK",
+    "column_name": null
+  },
+  {
+    "table_schema": "public",
+    "table_name": "User",
+    "constraint_type": "CHECK",
+    "column_name": null
+  }
+]

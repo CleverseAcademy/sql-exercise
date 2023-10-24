@@ -1,0 +1,26 @@
+[
+  {
+    "table_schema": "public",
+    "table_name": "Todo",
+    "constraint_type": "PRIMARY KEY",
+    "column_name": "id"
+  },
+  {
+    "table_schema": "public",
+    "table_name": "Todo",
+    "constraint_type": "FOREIGN KEY",
+    "column_name": "ownerId"
+  },
+  {
+    "table_schema": "public",
+    "table_name": "Todo",
+    "constraint_type": "CHECK",
+    "column_name": null
+  },
+  {
+    "table_schema": "public",
+    "table_name": "Todo",
+    "constraint_type": "CHECK",
+    "column_name": null
+  }
+]

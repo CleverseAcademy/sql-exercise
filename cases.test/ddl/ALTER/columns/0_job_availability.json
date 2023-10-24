@@ -1,0 +1,51 @@
+[
+  {
+    "table_name": "job_availability",
+    "column_name": "id",
+    "is_nullable": "NO",
+    "data_type": "uuid",
+    "character_octet_length": null
+  },
+  {
+    "table_name": "job_availability",
+    "column_name": "job_type",
+    "is_nullable": "YES",
+    "data_type": "smallint",
+    "character_octet_length": null
+  },
+  {
+    "table_name": "job_availability",
+    "column_name": "salary",
+    "is_nullable": "YES",
+    "data_type": "integer",
+    "character_octet_length": null
+  },
+  {
+    "table_name": "job_availability",
+    "column_name": "cost_per_hour",
+    "is_nullable": "YES",
+    "data_type": "integer",
+    "character_octet_length": null
+  },
+  {
+    "table_name": "job_availability",
+    "column_name": "duration",
+    "is_nullable": "YES",
+    "data_type": "integer",
+    "character_octet_length": null
+  },
+  {
+    "table_name": "job_availability",
+    "column_name": "start_at",
+    "is_nullable": "YES",
+    "data_type": "timestamp without time zone",
+    "character_octet_length": null
+  },
+  {
+    "table_name": "job_availability",
+    "column_name": "end_at",
+    "is_nullable": "YES",
+    "data_type": "timestamp without time zone",
+    "character_octet_length": null
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "table_name": "job_application",
+    "column_name": "applicant_id",
+    "is_nullable": "NO",
+    "data_type": "uuid",
+    "character_octet_length": null
+  },
+  {
+    "table_name": "job_application",
+    "column_name": "job_id",
+    "is_nullable": "NO",
+    "data_type": "uuid",
+    "character_octet_length": null
+  },
+  {
+    "table_name": "job_application",
+    "column_name": "job_avail_id",
+    "is_nullable": "NO",
+    "data_type": "uuid",
+    "character_octet_length": null
+  },
+  {
+    "table_name": "job_application",
+    "column_name": "apply_at",
+    "is_nullable": "NO",
+    "data_type": "timestamp without time zone",
+    "character_octet_length": null
+  },
+  {
+    "table_name": "job_application",
+    "column_name": "interview_at",
+    "is_nullable": "YES",
+    "data_type": "timestamp without time zone",
+    "character_octet_length": null
+  },
+  {
+    "table_name": "job_application",
+    "column_name": "approved_at",
+    "is_nullable": "YES",
+    "data_type": "timestamp without time zone",
+    "character_octet_length": null
+  },
+  {
+    "table_name": "job_application",
+    "column_name": "result",
+    "is_nullable": "YES",
+    "data_type": "smallint",
+    "character_octet_length": null
+  }
+]

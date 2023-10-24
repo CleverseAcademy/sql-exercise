@@ -1,0 +1,30 @@
+[
+  {
+    "table_name": "job",
+    "column_name": "id",
+    "is_nullable": "NO",
+    "data_type": "uuid",
+    "character_octet_length": null
+  },
+  {
+    "table_name": "job",
+    "column_name": "name",
+    "is_nullable": "YES",
+    "data_type": "character varying",
+    "character_octet_length": 1020
+  },
+  {
+    "table_name": "job",
+    "column_name": "description",
+    "is_nullable": "YES",
+    "data_type": "text",
+    "character_octet_length": 1073741824
+  },
+  {
+    "table_name": "job",
+    "column_name": "department_id",
+    "is_nullable": "YES",
+    "data_type": "uuid",
+    "character_octet_length": null
+  }
+]
