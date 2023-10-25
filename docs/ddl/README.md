@@ -22,15 +22,18 @@ npm run ddl-test-to-do
 
 ## Medical appointment
 **Worksheets:** 
-1. [User table](/src/ddl/to-do/User.ts)
-2. [Todo table](/src/ddl/to-do/Todo.ts)
+1. [appointment table](/src/ddl/appointment/appointment.ts)
+2. [availability table](/src/ddl/appointment/availability.ts)
+3. [doctor table](/src/ddl/appointment/doctor.ts)
+4. [patient table](/src/ddl/appointment/patient.ts)
+5. [personal_info table](/src/ddl/appointment/personal_info.ts)
 
 **Verification command:**
 
 > Complete all of your DDL commands and manually test them on a separate database first, then run the below command.
 
 ```sh
-TBA
+npm run ddl-test-appointment
 ```
 ### Tables definition
 1. `personal_info`

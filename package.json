@@ -9,6 +9,7 @@
   "scripts": {
     "ddl-test-to-do": "jest .*ddl/to-do.test.ts",
     "ddl-test-organization": "jest .*ddl/organization.test.ts",
+    "ddl-test-appointment": "jest .*ddl/appointment.test.ts",
     "dml-test-sfw-district": "jest .*sfw/district.test.ts --testNamePattern",
     "dml-test-sfw-customer": "jest .*sfw/customer.test.ts --testNamePattern",
     "dml-test-aggregate-customer": "jest .*aggregate/customer.test.ts --testNamePattern",
