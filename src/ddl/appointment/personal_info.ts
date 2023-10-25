@@ -1,10 +1,7 @@
 import ddl from "../../engines/ddl";
 
-export const createTableStmt = ddl(`
-`);
+export const createTableStmt = ddl(`CREATE `);
 
-export const renameColStmt = ddl(`
-`);
+export const renameColStmt = ddl(`ALTER `);
 
-export const changeColumnTypeStmt = ddl(`
-`);
+export const changeColumnTypeStmt = ddl(`ALTER `);
