@@ -1,0 +1,20 @@
+[
+  {
+    "table_schema": "public",
+    "table_name": "availability",
+    "constraint_type": "FOREIGN KEY",
+    "column_name": "doctor_id"
+  },
+  {
+    "table_schema": "public",
+    "table_name": "availability",
+    "constraint_type": "PRIMARY KEY",
+    "column_name": "id"
+  },
+  {
+    "table_schema": "public",
+    "table_name": "availability",
+    "constraint_type": "CHECK",
+    "column_name": null
+  }
+]

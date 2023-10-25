@@ -1,0 +1,16 @@
+[
+  {
+    "table_name": "doctor",
+    "column_name": "id",
+    "is_nullable": "NO",
+    "data_type": "uuid",
+    "character_octet_length": null
+  },
+  {
+    "table_name": "doctor",
+    "column_name": "specialization",
+    "is_nullable": "YES",
+    "data_type": "character varying",
+    "character_octet_length": 256
+  }
+]

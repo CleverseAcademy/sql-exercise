@@ -20,6 +20,30 @@ npm run ddl-test-to-do
 2. `Todo`: ***case-sensitive***
 ![Todo definition](/docs/assets/ddl/Todo.png)
 
+## Medical appointment
+**Worksheets:** 
+1. [User table](/src/ddl/to-do/User.ts)
+2. [Todo table](/src/ddl/to-do/Todo.ts)
+
+**Verification command:**
+
+> Complete all of your DDL commands and manually test them on a separate database first, then run the below command.
+
+```sh
+TBA
+```
+### Tables definition
+1. `personal_info`
+![personal_info definition](/docs/assets/ddl/personal_info.png)
+1. `patient`
+![patient definition](/docs/assets/ddl/patient.png)
+1. `doctor`
+![doctor definition](/docs/assets/ddl/doctor.png)
+1. `availability`
+![availability definition](/docs/assets/ddl/availability.png)
+1. `appointment`
+![appointment definition](/docs/assets/ddl/appointment.png)
+
 ## Organization
 **Worksheets:** 
 1. [applicant table](/src/ddl/organization/applicant.ts)

@@ -1,0 +1,12 @@
+[
+  {
+    "from_schema": "public",
+    "from_table": "doctor",
+    "from_column": "id",
+    "to_schema": "public",
+    "update_rule": "NO ACTION",
+    "delete_rule": "CASCADE",
+    "to_table": "personal_info",
+    "to_column": "id"
+  }
+]

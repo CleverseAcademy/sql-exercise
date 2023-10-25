@@ -1,0 +1,9 @@
+[
+  {
+    "table_name": "patient",
+    "column_name": "id",
+    "is_nullable": "NO",
+    "data_type": "uuid",
+    "character_octet_length": null
+  }
+]

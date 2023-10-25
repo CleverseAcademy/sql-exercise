@@ -1,0 +1,23 @@
+[
+  {
+    "table_name": "appointment",
+    "column_name": "patient_id",
+    "is_nullable": "NO",
+    "data_type": "uuid",
+    "character_octet_length": null
+  },
+  {
+    "table_name": "appointment",
+    "column_name": "availability_id",
+    "is_nullable": "NO",
+    "data_type": "uuid",
+    "character_octet_length": null
+  },
+  {
+    "table_name": "appointment",
+    "column_name": "created_at",
+    "is_nullable": "YES",
+    "data_type": "timestamp without time zone",
+    "character_octet_length": null
+  }
+]

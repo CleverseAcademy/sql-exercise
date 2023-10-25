@@ -1,0 +1,38 @@
+[
+  {
+    "table_schema": "public",
+    "table_name": "appointment",
+    "constraint_type": "PRIMARY KEY",
+    "column_name": "patient_id"
+  },
+  {
+    "table_schema": "public",
+    "table_name": "appointment",
+    "constraint_type": "PRIMARY KEY",
+    "column_name": "availability_id"
+  },
+  {
+    "table_schema": "public",
+    "table_name": "appointment",
+    "constraint_type": "FOREIGN KEY",
+    "column_name": "patient_id"
+  },
+  {
+    "table_schema": "public",
+    "table_name": "appointment",
+    "constraint_type": "FOREIGN KEY",
+    "column_name": "availability_id"
+  },
+  {
+    "table_schema": "public",
+    "table_name": "appointment",
+    "constraint_type": "CHECK",
+    "column_name": null
+  },
+  {
+    "table_schema": "public",
+    "table_name": "appointment",
+    "constraint_type": "CHECK",
+    "column_name": null
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "table_name": "availability",
+    "column_name": "id",
+    "is_nullable": "NO",
+    "data_type": "uuid",
+    "character_octet_length": null
+  },
+  {
+    "table_name": "availability",
+    "column_name": "doctor_id",
+    "is_nullable": "YES",
+    "data_type": "uuid",
+    "character_octet_length": null
+  },
+  {
+    "table_name": "availability",
+    "column_name": "date",
+    "is_nullable": "YES",
+    "data_type": "date",
+    "character_octet_length": null
+  },
+  {
+    "table_name": "availability",
+    "column_name": "start_time",
+    "is_nullable": "YES",
+    "data_type": "time without time zone",
+    "character_octet_length": null
+  },
+  {
+    "table_name": "availability",
+    "column_name": "duration",
+    "is_nullable": "YES",
+    "data_type": "smallint",
+    "character_octet_length": null
+  }
+]
