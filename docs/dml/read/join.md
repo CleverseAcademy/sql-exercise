@@ -13,7 +13,7 @@ npm run dml-test-join [Question No.]
 1. Retrieve customers' first and last name, phone number, and district where they are living, whose phone number from 3<sup>rd</sup> to 5<sup>th</sup> is `018`.
 2. Retrieve a customer's payment history, consisting of payment amount, customer first and last name, and customer phone number, where the historically paid amount is less than $10.
 3. Retrieve all order lines that have been placed after Sunday, September 24, 2023, 16:23:00 BKK timezone, have not been delivered yet, and whose price is in the range of $3,000–$5,000; **sort in an increasing order by order placement timestamp first; if both rows were at the same time, then sort by order-lines amount in the same direction.**
-4. In order to say thank you to all customers in the top-3 districts that have the most year-to-date balance, please write a query to retrieve all customer whose a good credit guys, and their balance is positive (greater than 0). **Sort by individual's ytd-payment from largest to smallest, with last name alphabetically ascending.**  
+4. In order to say thank you to all customers in the top-3 districts that have the most year-to-date balance, please write a query to retrieve all customer whose a good credit guys, and their balance is positive (greater than 0). **Sort by individual's ytd-payment from largest to smallest first, last name alphabetically ascending later, and zip code alphabetically ascending at last.**  
    Each retrieved row must consist of:
    - Personally Identifiable Information; PII
      - Full name: _c_first_, _c_middle_, _c_last_

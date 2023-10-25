@@ -41,7 +41,7 @@ npm run dml-test-sfw-customer [Question No.]
 7. Retrieve every customer city, state, zip code, phone number, and street name, both first and second, who lives in state `oh`, `my`, `nu`, `mb`, or `er`, and phone number contains a lucky number of `777`.
 8. Retrieve every customer city, state, zip code, balance, credit, and year-to-date payment, whose lives in state `it`, `is` or `me`, while balance is less than -$5,000.
 9. Retrieve every customer first and last name, zip code, city, state, and balance, whose is a good credit guy, and live in state `we`, `go`, `up`, `on`, `pa`, `or`, or `ma`, and balance is greater than $82,417.
-10. Retrieve every customer first and last name, phone number, state, credit status, phone number, and balance whose a good credit guy, live in state `be`,`on`, or `us`, and phone number contains `836`
+10. Retrieve every customer first and last name, phone number, state, credit status, phone number, and balance whose a good credit guy, live in state `be`, `on`, or `us`, and phone number contains `836`
 11. Retrieve every customer's first and last name, as well as phone number, who is a member of the `BARABLEATION`, `ABLEESEEING`, `ABLEPRESATION`, or `CALLYPRESANTI` clan, and phone number's second and third digits are `00`.
 12. Retrieve every customer first and last name, phone number, state, entitled discount, year-to-date payment, and balance, who live in state `cl`, `ev`, `er`, or `se`, entitled to more than 30% discount, and last name containing the words `CALL` and `TI`, respectively.
 13. Retrieve every customer's first and last name, zip code, and phone number that begins with `202` and ends with `77`. **Sort by customer's first name, alphabetically ascendant.**
