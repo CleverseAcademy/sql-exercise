@@ -53,7 +53,7 @@ describe("Customer SFW query", () => {
       q2,
     ],
     [
-      `Q3: first name containing a two-consecutive character o and the last name containing the word see`,
+      `Q3: first name containing a two-consecutive character o and the last name containing the word SEE`,
       "sfw/query_results-2023-10-04_12350",
       q3,
     ],

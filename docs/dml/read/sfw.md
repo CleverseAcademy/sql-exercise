@@ -34,7 +34,7 @@ npm run dml-test-sfw-customer [Question No.]
 
 1. Retrieve every customer's first and last name, zip code, and phone number whose last name begins with `CALLYB` and their phone number begins with `71`.
 2. Retrieve every customer's first and last name, city, state, and phone number, whose last name ends with `BLE` and their phone number ends with `0151`.
-3. Retrieve every customer's first and last name and phone number, with the first name containing a two-consecutive character `o` and the last name containing the word `see`.
+3. Retrieve every customer's first and last name and phone number, with the first name containing a two-consecutive character `o` and the last name containing the word `SEE`.
 4. Retrieve every customer city, state, zip code, and phone number whose 4<sup>th</sup> – 6<sup>th</sup> digits in the phone number are `417`.
 5. Retrieve every customer first and last name, zip code, phone number, and year-to-date payment whose first name, after removing a prefix `first-`, has a minimum length of 5, their last name ends with `BLE`, and the 3<sup>rd</sup> to 5<sup>th</sup> digits in their phone number are `218`.
 6. Retrieve every customer's first and last name, credit status, and year-to-date payment whose year-to-date payment is greater than $10,000. The last name containing a four-character word begins with `B` and ends with `A` (`B??A`).
