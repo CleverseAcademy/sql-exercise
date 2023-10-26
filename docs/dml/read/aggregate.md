@@ -26,7 +26,7 @@ npm run dml-test-aggregate-customer [Question No.]
    - 40% < discount <= 50%  
      And report it as a 2-column table, `discount_percentage_ceiling`, and `amt`. `discount_percentage_ceiling` is an upper boundary within each group, while `amt` is a number of discounts that fit in a given group.
 7. Add up all customer year-to-date payments `sum_state_ytd_payment`, grouping by state.
-8. Report all states in which the total customer year-to-date payment `sum_state_ytd_payment` is greater than $360,000.
+8. Report all states along with the sum of customer's year-to-date payment as `sum_state_ytd_payment`, which `sum_state_ytd_payment` is greater than $360,000.
 9. Summarize districts' total of customer year-to-date payment `sum_district_ytd_payment`.
 10. Report the only state with more than 450 consumers', `state_ppls_cnt`, total year-to-date payments, `state_ytd_payment`, for each state. **Sort by state's total year-to-date payment in an increasing order.**
 11. Indicate how many consumers, `state_ppls_cnt`, there are in each state where the average customer discount is no less than 25%, `state_avg_discount`. **Sort in decreasing order by average customer discount.**

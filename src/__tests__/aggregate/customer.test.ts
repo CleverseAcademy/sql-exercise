@@ -74,7 +74,7 @@ describe("Customer Aggregate query", () => {
       q7,
     ],
     [
-      `Q8: Report all states in which the total customer year-to-date payment is greater than $360,000`,
+      `Q8: Report all states along with the sum of customer's year-to-date payment as sum_state_ytd_payment, which sum_state_ytd_payment is greater than $360,000.`,
       "aggregate/query_results-2023-10-04_50131",
       q8,
     ],
